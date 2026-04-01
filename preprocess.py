@@ -70,7 +70,7 @@ transaction_df = pd.DataFrame({
     'payment_type': [random.choice(['Cash', 'Loan']) for _ in range(len(property_df))],
     'property_id': property_df['property_id']
 })
-transaction_df.to_csv('data/transaction.csv', index=False)
+transaction_df.to_csv('data/transactions.csv', index=False)
 
 purchase_df = pd.DataFrame({
     'purchase_id': range(len(property_df)),

@@ -1,1306 +1,1306 @@
 location_id,city,area_name,zipcode
-0,Bengaluru,Electronic City Phase II,13313
-1,Bengaluru,Chikka Tirupathi,19651
-2,Bengaluru,Uttarahalli,49690
-3,Bengaluru,Lingadheeranahalli,39484
-4,Bengaluru,Kothanur,35020
-5,Bengaluru,Whitefield,42483
-6,Bengaluru,Old Airport Road,26939
-7,Bengaluru,Rajaji Nagar,24430
-8,Bengaluru,Marathahalli,42110
-9,Bengaluru,Gandhi Bazar,40214
-10,Bengaluru,7th Phase JP Nagar,14645
-11,Bengaluru,Gottigere,25027
-12,Bengaluru,Sarjapur,18266
-13,Bengaluru,Mysore Road,11596
-14,Bengaluru,Bisuvanahalli,34261
-15,Bengaluru,Raja Rajeshwari Nagar,21245
-16,Bengaluru,Ramakrishnappa Layout,22485
-17,Bengaluru,Manayata Tech Park,16242
-18,Bengaluru,Kengeri,14684
-19,Bengaluru,Binny Pete,26376
-20,Bengaluru,Thanisandra,45354
-21,Bengaluru,Bellandur,44835
-22,Bengaluru, Thanisandra,36726
-23,Bengaluru,Mangammanapalya,48500
-24,Bengaluru,Electronic City,46782
-25,Bengaluru,Ramagondanahalli,29918
-26,Bengaluru,Yelahanka,46064
-27,Bengaluru,Hebbal,37561
-28,Bengaluru,Kasturi Nagar,42151
-29,Bengaluru,Kanakpura Road,31988
-30,Bengaluru,Electronics City Phase 1,15155
-31,Bengaluru,Kundalahalli,39080
-32,Bengaluru,Chikkalasandra,28283
-33,Bengaluru,Murugeshpalya,26068
-34,Bengaluru,Sarjapur  Road,20914
-35,Bengaluru,Ganga Nagar,16245
-36,Bengaluru,HSR Layout,32491
-37,Bengaluru,Doddathoguru,15215
-38,Bengaluru,KR Puram,28302
-39,Bengaluru,Himagiri Meadows,10905
-40,Bengaluru,Adarsh Nagar,10365
-41,Bengaluru,Bhoganhalli,35389
-42,Bengaluru,Lakshminarayana Pura,44086
-43,Bengaluru,Begur Road,27371
-44,Bengaluru,Devanahalli,20387
-45,Bengaluru,Govindaraja Nagar Ward,46232
-46,Bengaluru,Tharabanahalli,49136
-47,Bengaluru,Varthur,35763
-48,Bengaluru,Bommanahalli,34095
-49,Bengaluru,Gunjur,37052
-50,Bengaluru,Devarachikkanahalli,21833
-51,Bengaluru,Double Road,43146
-52,Bengaluru,Hegde Nagar,24414
-53,Bengaluru,Haralur Road,34302
-54,Bengaluru,Hennur Road,18119
-55,Bengaluru,Kothannur,46693
-56,Bengaluru,Kalena Agrahara,23695
-57,Bengaluru,Cholanayakanahalli,15629
-58,Bengaluru,Kaval Byrasandra,47858
-59,Bengaluru,ISRO Layout,19338
-60,Bengaluru,Kodanda Reddy Layout,15607
-61,Bengaluru,Garudachar Palya,43254
-62,Bengaluru,EPIP Zone,21761
-63,Bengaluru,Dasanapura,10762
-64,Bengaluru,Kasavanhalli,27719
-65,Bengaluru,Sanjay nagar,45326
-66,Bengaluru, Mysore Highway,45002
-67,Bengaluru,Domlur,14024
-68,Bengaluru,Sarjapura - Attibele Road,43627
-69,Bengaluru,Devasthanagalu,23892
-70,Bengaluru,T Dasarahalli,48108
-71,Bengaluru,Yeshwanthpur,43911
-72,Bengaluru,Chandapura,32549
-73,Bengaluru,Green View Layout,14056
-74,Bengaluru,Shantiniketan Layout,19333
-75,Bengaluru,Peenya,30684
-76,Bengaluru,Nagarbhavi,45625
-77,Bengaluru,Jalahalli West,13341
-78,Bengaluru,Lakshmiamma Garden,21305
-79,Bengaluru,Byatarayanapura,28711
-80,Bengaluru,Ramamurthy Nagar,35164
-81,Bengaluru,Malleshwaram,36678
-82,Bengaluru,Akshaya Nagar,34102
-83,Bengaluru,Shampura,28714
-84,Bengaluru,Kadugodi,35744
-85,Bengaluru,LB Shastri Nagar,36024
-86,Bengaluru,Vajarahalli,11525
-87,Bengaluru,Hormavu,22580
-88,Bengaluru,Vishwapriya Layout,38375
-89,Bengaluru,Ramaswamy Palya - Kammanahalli Main Road,44260
-90,Bengaluru,Kudlu Gate,26019
-91,Bengaluru,8th Phase JP Nagar,47661
-92,Bengaluru,Bommasandra Industrial Area,17831
-93,Bengaluru,Chandra Layout,48130
-94,Bengaluru,Anandapura,20507
-95,Bengaluru,Vishveshwarya Layout,11853
-96,Bengaluru,Kengeri Satellite Town,33385
-97,Bengaluru,Basavanapura,14104
-98,Bengaluru,Dinnur,36878
-99,Bengaluru,Kannamangala,46221
-100,Bengaluru, Devarachikkanahalli,24763
-101,Bengaluru,Sanjeevini Nagar,21230
-102,Bengaluru,Hulimavu,37051
-103,Bengaluru,Mahalakshmi Layout,23124
-104,Bengaluru,Yarandahalli,43174
-105,Bengaluru,Hosa Road,10612
-106,Bengaluru,Keshava Nagar,35904
-107,Bengaluru,RMV Extension,11015
-108,Bengaluru,Tejaswini Nagar,27090
-109,Bengaluru,Jai Bheema Nagar,40911
-110,Bengaluru,Kothnur Narayanapura,37030
-111,Bengaluru,Attibele,34783
-112,Bengaluru,CV Raman Nagar,13520
-113,Bengaluru,CHIKKATIRUPATHI,10411
-114,Bengaluru,Kumaraswami Layout,11853
-115,Bengaluru,Nagavara,10093
-116,Bengaluru,Hebbal Kempapura,36456
-117,Bengaluru,Vijayanagar,25287
-118,Bengaluru,8th block Koramangala,49326
-119,Bengaluru,Jakkuru Layout,19582
-120,Bengaluru,Pattandur Agrahara,37413
-121,Bengaluru,Ejipura,29062
-122,Bengaluru,MS Pallya,26514
-123,Bengaluru,Nagasandra,31133
-124,Bengaluru,Langford Town,27661
-125,Bengaluru,Kogilu,20946
-126,Bengaluru,Panathur,46656
-127,Bengaluru,Nagondanahalli,44044
-128,Bengaluru,Padmanabhanagar,28350
-129,Bengaluru,1st Block Jayanagar,27926
-130,Bengaluru,Kammasandra,37209
-131,Bengaluru,"Off Sarjapur Road, ",41704
-132,Bengaluru,Tala Cauvery Layout,27929
-133,Bengaluru,Dasarahalli,19881
-134,Bengaluru,Magadi Road,31659
-135,Bengaluru,Ngef Layout,31901
-136,Bengaluru,Koramangala,43162
-137,Bengaluru,"Lakshminarayanapura, Electronic City Phase 2",49459
-138,Bengaluru,Muthurayya Swamy Layout,30435
-139,Bengaluru,Dommasandra,31236
-140,Bengaluru,Budigere,40131
-141,Bengaluru,Dodda Nekkundi Extension,27357
-142,Bengaluru,Mylasandra,37097
-143,Bengaluru,Kalyan nagar,47875
-144,Bengaluru,Dr Shivarama Karantha Nagar,13235
-145,Bengaluru,Bank Of Baroda Colony,30176
-146,Bengaluru,Kullappa Colony,33595
-147,Bengaluru,Mukkutam Nagar,32450
-148,Bengaluru,Ashwath Nagar,40624
-149,Bengaluru,Ncpr Industrial Layout,29732
-150,Bengaluru,Meenakunte,18028
-151,Bengaluru,OMBR Layout,43301
-152,Bengaluru,Anand Nagar,44395
-153,Bengaluru,Shree Ananth Nagar Layout,17787
-154,Bengaluru,Kundalahalli Colony,32414
-155,Bengaluru,Horamavu Agara,23030
-156,Bengaluru,MCECHS  layout,47439
-157,Bengaluru,Coffee Board Layout,16120
-158,Bengaluru,Ambedkar Nagar,12243
-159,Bengaluru,KUDLU MAIN ROAD,27017
-160,Bengaluru,Geleyara Balaga Layout,41740
-161,Bengaluru,Talaghattapura,13093
-162,Bengaluru,Sundara Nagar,37645
-163,Bengaluru,Balagere,45499
-164,Bengaluru,Jigani,20328
-165,Bengaluru,Gollarapalya Hosahalli,38901
-166,Bengaluru,Srirampura,15130
-167,Bengaluru,Old Madras Road,35000
-168,Bengaluru,Kaggadasapura,33502
-169,Bengaluru,Silver Springs Layout,47773
-170,Bengaluru,9th Phase JP Nagar,40352
-171,Bengaluru,Jakkur,24558
-172,Bengaluru,TC Palaya,44875
-173,Bengaluru,Maruthi Sevanagar,17026
-174,Bengaluru,RMV 2nd Stage,19005
-175,Bengaluru,Giri Nagar,12996
-176,Bengaluru,Singasandra,19396
-177,Bengaluru,AECS Layout,37730
-178,Bengaluru,Mallasandra,49580
-179,Bengaluru,Begur,25198
-180,Bengaluru,JP Nagar,18471
-181,Bengaluru,Sunder Ram Shetty Nagar,36149
-182,Bengaluru,Malleshpalya,12587
-183,Bengaluru,Kodathi,46540
-184,Bengaluru,Munnekollal,10646
-185,Bengaluru,Motappa Layout,37988
-186,Bengaluru,Akshaya Vana,20734
-187,Bengaluru,Kaggalipura,44711
-188,Bengaluru,Basavanna Nagar,14893
-189,Bengaluru,6th Phase JP Nagar,37455
-190,Bengaluru,Ulsoor,11460
-191,Bengaluru,Thigalarapalya,43435
-192,Bengaluru,Somasundara Palya,10133
-193,Bengaluru,T.C PALYA,42228
-194,Bengaluru,Muneshwara Nagar,47539
-195,Bengaluru,Basaveshwara Nagar,45393
-196,Bengaluru,Bull Temple Road,28473
-197,Bengaluru,Bommasandra,30256
-198,Bengaluru,Prashanth Nagar,33950
-199,Bengaluru,Suragajakkanahalli,20851
-200,Bengaluru,Ardendale,44398
-201,Bengaluru,Harlur,38023
-202,Bengaluru,Sampigehalli,21522
-203,Bengaluru,RMV,24935
-204,Bengaluru,Banashankari3rd stage bigbazar,37536
-205,Bengaluru,Bagalur Main Road,37648
-206,Bengaluru,Kodihalli,22908
-207,Bengaluru,Narayanapura,48066
-208,Bengaluru,Binny Mills Employees Colony,13504
-209,Bengaluru,Bannerghatta Road,18072
-210,Bengaluru,Hennur,13223
-211,Bengaluru,5th Phase JP Nagar,16493
-212,Bengaluru,Kodigehaali,47755
-213,Bengaluru,Gopalapura,28318
-214,Bengaluru,Billekahalli,48762
-215,Bengaluru,Jalahalli,33505
-216,Bengaluru,Mahadevpura,44609
-217,Bengaluru,Anekal,48760
-218,Bengaluru,"Hoodi Circle, ",36776
-219,Bengaluru,Sompura,32852
-220,Bengaluru,Ashirvad Colony,10915
-221,Bengaluru,Dodda Nekkundi,43058
-222,Bengaluru,K N Extension,29779
-223,Bengaluru,Hosur Road,10123
-224,Bengaluru,Battarahalli,31858
-225,Bengaluru,Gokula Extension,15443
-226,Bengaluru,Kamakshipalya,28219
-227,Bengaluru,Sultan Palaya,17947
-228,Bengaluru,Sanne Amanikere,27119
-229,Bengaluru,Amco Colony,43639
-230,Bengaluru,Ambalipura,35489
-231,Bengaluru,Hoodi,29724
-232,Bengaluru,Samethanahalli,49257
-233,Bengaluru,Brookefield,42715
-234,Bengaluru,Yelenahalli,46004
-235,Bengaluru,Richmond Town,25070
-236,Bengaluru,Suddaguntepalya,16711
-237,Bengaluru,Udayapur Village,15112
-238,Bengaluru,Vittasandra,17514
-239,Bengaluru,Thippasandra,23506
-240,Bengaluru,Chikkabidarakallu,29384
-241,Bengaluru,1 Giri Nagar,12245
-242,Bengaluru,Hoysalanagar,12078
-243,Bengaluru,Defence Colony,10000
-244,Bengaluru,2nd Stage Nagarbhavi,35865
-245,Bengaluru,Vidyaranyapura,21100
-246,Bengaluru,Amruthahalli,21051
-247,Bengaluru,ITI Employees Layout,20278
-248,Bengaluru,Kodigehalli,47137
-249,Bengaluru,Patelappa Layout,40890
-250,Bengaluru,Ring Road Nagarbhavi,47929
-251,Bengaluru,NS Palya,21973
-252,Bengaluru,Subramanyapura,15572
-253,Bengaluru,Basavangudi,30506
-254,Bengaluru,Kenchenahalli,31180
-255,Bengaluru,3rd Block Hrbr Layout,27026
-256,Bengaluru,Bank Avenue,32310
-257,Bengaluru,Surabhi Layout,17873
-258,Bengaluru,Banjara Layout,39981
-259,Bengaluru,Omkar Nagar,18091
-260,Bengaluru,Kereguddadahalli,46398
-261,Bengaluru,Maragondanahalli,32363
-262,Bengaluru,Silk Board,35403
-263,Bengaluru,Kada Agrahara,29343
-264,Bengaluru,Kambipura,33895
-265,Bengaluru,BHEL Layout,41438
-266,Bengaluru,Medahalli,39005
-267,Bengaluru,Banashankari Stage III,44315
-268,Bengaluru,Kashi Nagar,11631
-269,Bengaluru,Sector 7 HSR Layout,31787
-270,Bengaluru,"Yemlur, Old Airport Road, ",21337
-271,Bengaluru,VHBCS Layout,48991
-272,Bengaluru,Ittamadu,21306
-273,Bengaluru,Rajiv Nagar,44810
-274,Bengaluru,Gattahalli,45272
-275,Bengaluru,Arekere,32406
-276,Bengaluru,Ramanjaneyanagar,17692
-277,Bengaluru,Mico Layout,48981
-278,Bengaluru,7th Block Jayanagar,10974
-279,Bengaluru,2nd Phase JP Nagar,20824
-280,Bengaluru,Kammanahalli,11764
-281,Bengaluru,K G Colony,16859
-282,Bengaluru,Banashankari,23820
-283,Bengaluru,Herohalli,40040
-284,Bengaluru,Chikkabanavar,28507
-285,Bengaluru,HRBR Layout,44693
-286,Bengaluru,Ashwini layout,25106
-287,Bengaluru,Marathalli bridge,39207
-288,Bengaluru,Dooravani Nagar,40743
-289,Bengaluru,JCR Layout,46823
-290,Bengaluru,Nehru Nagar,21203
-291,Bengaluru,Kanakapura,34679
-292,Bengaluru,Papareddipalya,34449
-293,Bengaluru,Venkatapura,16461
-294,Bengaluru,Sneha Colony,49045
-295,Bengaluru,Konanakunte,17620
-296,Bengaluru,Hosapalya,48159
-297,Bengaluru,Doddagubbi,13006
-298,Bengaluru,Sector 6 HSR Layout,25432
-299,Bengaluru,Margondanahalli,35698
-300,Bengaluru,ITI Layout,41621
-301,Bengaluru,R.T. Nagar,33672
-302,Bengaluru,Tumkur Road,28846
-303,Bengaluru,Vasanthapura,23222
-304,Bengaluru,Hosahalli,38141
-305,Bengaluru,GM Palaya,23279
-306,Bengaluru,near Ramanashree California resort,47970
-307,Bengaluru,"6th block banashankari 3rd stage, 100 feet ORR",18851
-308,Bengaluru,Jalahalli East,26491
-309,Bengaluru,Poornapragna Housing Society Layout,33409
-310,Bengaluru,Hosakerehalli,11661
-311,Bengaluru,Huskur,11186
-312,Bengaluru,Indira Nagar,23697
-313,Bengaluru,Shanthala Nagar,42677
-314,Bengaluru,Teachers Colony,39686
-315,Bengaluru,Bettahalsoor,36130
-316,Bengaluru,Srinivasa Nagar,43276
-317,Bengaluru,Sulthangunta,21437
-318,Bengaluru,Byrathi Village,28168
-319,Bengaluru,Kodichikkanahalli,47453
-320,Bengaluru,Ambedkar Colony,11638
-321,Bengaluru,Varthur Road,38163
-322,Bengaluru,Anjappa Layout,29764
-323,Bengaluru,Avalahalli,31050
-324,Bengaluru,Prakruthi Nagar,26109
-325,Bengaluru,Sadaramangala,46272
-326,Bengaluru,Anjanapura,22087
-327,Bengaluru,Abbigere,38773
-328,Bengaluru,Tindlu,16636
-329,Bengaluru,B Narayanapura,12072
-330,Bengaluru,Green Garden Layout,27644
-331,Bengaluru,Gubbalala,10327
-332,Bengaluru,Dairy Circle,31987
-333,Bengaluru,Parappana Agrahara,29143
-334,Bengaluru,Jeevan bima nagar,31418
-335,Bengaluru,Narayana Nagar 1st Block,45671
-336,Bengaluru,KSRTC Layout,10762
-337,Bengaluru,P&T Colony,40721
-338,Bengaluru,Cunningham Road,46382
-339,Bengaluru,New Gurappana Palya,45505
-340,Bengaluru,Chelekare,43213
-341,Bengaluru,Palanahalli,30234
-342,Bengaluru,Vadarpalya,10843
-343,Bengaluru,Kudlu,37277
-344,Bengaluru,Shivanagar,15038
-345,Bengaluru,V.V Puram,42414
-346,Bengaluru,Sector 3 HSR Layout,40289
-347,Bengaluru,Banashankari Stage VI,26896
-348,Bengaluru,HMT Layout,23785
-349,Bengaluru,Basavanagara,45128
-350,Bengaluru,Cox Town,32939
-351,Bengaluru,Kalasipalya,12150
-352,Bengaluru,Kathriguppe,16724
-353,Bengaluru,HBR Layout,25430
-354,Bengaluru,4 Bedroom Farm House in Bagalur,17277
-355,Bengaluru,Yelahanka New Town,17119
-356,Bengaluru,Sahakara Nagar,49509
-357,Bengaluru,manyata park,11657
-358,Bengaluru,Rachenahalli,19199
-359,Bengaluru,Belathur,35839
-360,Bengaluru,Sadashiva Nagar,27612
-361,Bengaluru,Yelachenahalli,24180
-362,Bengaluru,Shirdi Sai Layout,20350
-363,Bengaluru,Kodbisanhalli,27850
-364,Bengaluru,Sathya Sai Layout,27222
-365,Bengaluru,Indiranagar HAL 2nd Stage,12549
-366,Bengaluru,Vishwanatha Nagenahalli,23553
-367,Bengaluru,Singapura Village,49175
-368,Bengaluru,Bendiganahalli,23088
-369,Bengaluru,Hosakerehalli Layout,43492
-370,Bengaluru,Hennagara,14403
-371,Bengaluru,Ferrar Nagar,15631
-372,Bengaluru,Green Glen Layout,21620
-373,Bengaluru,BAGUR,49067
-374,Bengaluru,Thubarahalli,17756
-375,Bengaluru,M.G Road,10084
-376,Bengaluru,Naganathapura,11016
-377,Bengaluru,Horamavu Banaswadi,26362
-378,Bengaluru,1st Phase JP Nagar,13673
-379,Bengaluru,Kaverappa Layout,28848
-380,Bengaluru,NGR Layout,11039
-381,Bengaluru,Divya Unnathi Layout,26714
-382,Bengaluru,Vasantha Vallabha Nagar,47081
-383,Bengaluru,sapthagiri Layout,24179
-384,Bengaluru,Seegehalli,20137
-385,Bengaluru,BEML Layout,47524
-386,Bengaluru,Alur,28817
-387,Bengaluru,Devarabisanahalli,20717
-388,Bengaluru,NRI Layout,31879
-389,Bengaluru,Sidedahalli,14293
-390,Bengaluru,Dwarka Nagar,30365
-391,Bengaluru,ITPL,37935
-392,Bengaluru,Thurahalli,44533
-393,Bengaluru,Hallehalli,21399
-394,Bengaluru,Kattigenahalli,46959
-395,Bengaluru,Marathi Layout,41076
-396,Bengaluru,Weavers Colony,13549
-397,Bengaluru,Raghavendra Nagar,33112
-398,Bengaluru,KR Layout,11680
-399,Bengaluru,Babusapalaya,32775
-400,Bengaluru,Nagappa Reddy Layout,30229
-401,Bengaluru,Kempapura,29672
-402,Bengaluru,BTM 1st Stage,30240
-403,Bengaluru,Kariyammana Agrahara,20781
-404,Bengaluru,Hessarghatta,42144
-405,Bengaluru,Binnamangala,39082
-406,Bengaluru,Suraksha Nagar,45226
-407,Bengaluru,Lakshmi Layout,23380
-408,Bengaluru,Iblur Village,36930
-409,Bengaluru,Kadugondanahalli,46497
-410,Bengaluru,Basava Nagar,17757
-411,Bengaluru,2nd Block Hrbr Layout,49733
-412,Bengaluru,Ananth Nagar,18068
-413,Bengaluru,Canara Bank Layout,34890
-414,Bengaluru,Narasapura,38264
-415,Bengaluru,Manjunath Nagar,42680
-416,Bengaluru,Basapura,45669
-417,Bengaluru,Channasandra,46956
-418,Bengaluru,Singena Agrahara,30664
-419,Bengaluru,Sector 1 HSR Layout,33010
-420,Bengaluru,Mango Garden Layout,21427
-421,Bengaluru,Kacharakanahalli,15915
-422,Bengaluru,"Bidere Agarahara, Behind Safal market",41252
-423,Bengaluru,Grihalakshmi Layout,38199
-424,Bengaluru,Gopalkrishna Nagar,15843
-425,Bengaluru,Choodasandra,18202
-426,Bengaluru,Sai Gardens,45447
-427,Bengaluru,Dodda Kempaiah Layout,11021
-428,Bengaluru,Hanumanth Nagar,36139
-429,Bengaluru,Kaikondrahalli,34010
-430,Bengaluru,Hunasamaranahalli,39748
-431,Bengaluru,RWF West Colony,13578
-432,Bengaluru,Bileshivale,19495
-433,Bengaluru,Neeladri Nagar,38578
-434,Bengaluru,Frazer Town,21451
-435,Bengaluru,Williams Town,49252
-436,Bengaluru,Jaya Nagar East,24330
-437,Bengaluru,Iggalur,29589
-438,Bengaluru,Cooke Town,34758
-439,Bengaluru,Doddakallasandra,20078
-440,Bengaluru,Chokkanahalli,24617
-441,Bengaluru,Chikkaballapur,49327
-442,Bengaluru,Chamrajpet,14223
-443,Bengaluru,VGP Layout,12424
-444,Bengaluru,Classic Paradise Layout,32584
-445,Bengaluru,Byappanahalli,19475
-446,Bengaluru,Vasanth nagar,44440
-447,Bengaluru,Rayasandra,13896
-448,Bengaluru,Kalkere,26588
-449,Bengaluru,T.C. Palya,39011
-450,Bengaluru,Siddapura,11610
-451,Bengaluru,Makali,24934
-452,Bengaluru,Vibuthipura,23888
-453,Bengaluru,5th Block Hbr Layout,16352
-454,Bengaluru,Pai Layout,14221
-455,Bengaluru,Defence Layout,10357
-456,Bengaluru,Roopena Agrahara,20178
-457,Bengaluru,Banashankari Stage V,42252
-458,Bengaluru,Coconut Garden,48014
-459,Bengaluru,Gollahalli,19333
-460,Bengaluru,Sonnenahalli,35652
-461,Bengaluru,D Souza Layout,40210
-462,Bengaluru,"ECC Road, Whitefield, ",18050
-463,Bengaluru,Seetharampalya,30905
-464,Bengaluru,Rukmaiah Layout,16908
-465,Bengaluru,Devanahalli Int. Airport,37117
-466,Bengaluru,Puttanahalli,25402
-467,Bengaluru,Benson Town,27502
-468,Bengaluru,Devasandra Extension,36661
-469,Bengaluru,2nd Phase Judicial Layout,38602
-470,Bengaluru,1st Block HRBR Layout,41028
-471,Bengaluru,"Sarjapur Road, ",35163
-472,Bengaluru,Byadarahalli,47719
-473,Bengaluru,Poorna Pragna Layout,37412
-474,Bengaluru,Judicial Layout,30460
-475,Bengaluru,"Varthur Road, ",32483
-476,Bengaluru,Chikka Banaswadi,25239
-477,Bengaluru,Outer Ring Road East,26178
-478,Bengaluru,Kavika Layout,19135
-479,Bengaluru,Vinayaka Nagar,33184
-480,Bengaluru,Banashankari Stage II,33922
-481,Bengaluru,Hennur Busstop,26002
-482,Bengaluru,GB Palya,19606
-483,Bengaluru,AMS Layout,39841
-484,Bengaluru,9th Block Jayanagar,11431
-485,Bengaluru,Karuna Nagar,14994
-486,Bengaluru,Ashwathnagar,46346
-487,Bengaluru,Gaurava Nagar,22738
-488,Bengaluru,Kengeri Satellite Town ( BDA SITE),10896
-489,Bengaluru,AGS Layout,14662
-490,Bengaluru,Srinagar,26320
-491,Bengaluru,Brigade Road,11193
-492,Bengaluru,Bannerghatta,31950
-493,Bengaluru,Maruthi HBCS Layout,11102
-494,Bengaluru,Devanahalli Road,47299
-495,Bengaluru,Green Woods Layout,17122
-496,Bengaluru,Craig Park Layout,16785
-497,Bengaluru,Immadihalli,17768
-498,Bengaluru,Banagiri Nagar,38581
-499,Bengaluru,Hiremath Layout,27708
-500,Bengaluru,Jnanabharathi Layout,34766
-501,Bengaluru,Chikkasandra,31697
-502,Bengaluru,Bharath Housing Society Layout,31405
-503,Bengaluru,3rd Block Jayanagar,41551
-504,Bengaluru,Manjunatha Layout,21371
-505,Bengaluru,Konanakunte Cross,41732
-506,Bengaluru,Abbaiah Reddy Layout,39399
-507,Bengaluru,Tavarekere,40295
-508,Bengaluru,Thirumenahalli,44979
-509,Bengaluru,KPC Layout,40446
-510,Bengaluru,HOSUR MAIN ROAD,10264
-511,Bengaluru,Nandi Durga Road,49440
-512,Bengaluru,Kumara Park,18602
-513,Bengaluru,Daadys Gaarden Layout,20923
-514,Bengaluru,Maruthi Nagar,19232
-515,Bengaluru,Marsur,26686
-516,Bengaluru,Kallumantapa,20285
-517,Bengaluru,Malimakanapura,11792
-518,Bengaluru,Rustam Bagh Layout,40256
-519,Bengaluru,New Thippasandra,25294
-520,Bengaluru,Garden Layout,22895
-521,Bengaluru,Viswapriyanagar.begur Road.bommanahalli.,28544
-522,Bengaluru,T K Reddy Layout,17701
-523,Bengaluru,Kumbena Agrahara,17004
-524,Bengaluru,"Pai layout , Mahadevapura",35225
-525,Bengaluru,frazertown,35997
-526,Bengaluru,Akshayanagara East,11545
-527,Bengaluru,Doddanekundi,45663
-528,Bengaluru,Venkatadri Layout,38095
-529,Bengaluru,Bommenahalli,20710
-530,Bengaluru,Mahaganapathy Nagar,12055
-531,Bengaluru,Andrahalli,25848
-532,Bengaluru,Vittal Nagar,14438
-533,Bengaluru,2Electronic City Phase II,28271
-534,Bengaluru,3rd Block Banashankari,15122
-535,Bengaluru,Bhuvaneshwari Nagar,44733
-536,Bengaluru,Kadarenahalli,26655
-537,Bengaluru,Laggere,18521
-538,Bengaluru,Victoria Layout,22035
-539,Bengaluru,Prithvi Layout,15371
-540,Bengaluru,Subramanyanagar,15627
-541,Bengaluru,1 Ramamurthy Nagar,19339
-542,Bengaluru,5th Stage BEML Layout,30582
-543,Bengaluru,IVC Road,12807
-544,Bengaluru,Jaya Mahal layout,23763
-545,Bengaluru,BSM Extension,47218
-546,Bengaluru,Vijinapura,47406
-547,Bengaluru,Banaswadi,15156
-548,Bengaluru,P&T Layout,22883
-549,Bengaluru,Byrasandra,13864
-550,Bengaluru,SBM Colony,16289
-551,Bengaluru,Veerannapalya,19250
-552,Bengaluru,Chowdeshwari Layout,23473
-553,Bengaluru,Mathikere Extension,41897
-554,Bengaluru,Sector 2 HSR Layout,18653
-555,Bengaluru,Anantapura,42728
-556,Bengaluru,Shivaji Nagar,38429
-557,Bengaluru,Badavala Nagar,19815
-558,Bengaluru,4th Block Koramangala,32707
-559,Bengaluru,Belatur,45039
-560,Bengaluru,Lalbagh Road,16699
-561,Bengaluru,Kamakya Layout,44215
-562,Bengaluru,Vignana Nagar,18114
-563,Bengaluru,Nallurhalli,26607
-564,Bengaluru,Chinnapanahalli,42778
-565,Bengaluru,Lingarajapuram,36590
-566,Bengaluru,3rd Block HBR Layout,34905
-567,Bengaluru,Laxmi Sagar Layout,42755
-568,Bengaluru,Nelamangala,40020
-569,Bengaluru,Nagavarapalya,14540
-570,Bengaluru,Hongasandra,44548
-571,Bengaluru,Harappanahalli,19149
-572,Bengaluru,BTM Layout,15684
-573,Bengaluru,Chennammana Kere,43292
-574,Bengaluru,Kanaka Nagar,14345
-575,Bengaluru,Tasker Town,11420
-576,Bengaluru,Govindpura,15338
-577,Bengaluru,NR Colony,11691
-578,Bengaluru,Agara Village,17421
-579,Bengaluru,Shettigere,15015
-580,Bengaluru,Kenchanehalli R R Nagar,45300
-581,Bengaluru,BEL Road,38338
-582,Bengaluru,Byagadadhenahalli,39373
-583,Bengaluru,Doddabommasandra,18587
-584,Bengaluru,Maruthi Layout,18956
-585,Bengaluru,Sree Narayana Nagar,30027
-586,Bengaluru,Tunganagara,41233
-587,Bengaluru,BTM 2nd Stage,16682
-588,Bengaluru,Remco Bhel Layout,15161
-589,Bengaluru,Chokkasandra,43756
-590,Bengaluru,Panduranga Nagar,46771
-591,Bengaluru,Sri Venkateshpura Layout,38769
-592,Bengaluru,Jakkur Plantation,24774
-593,Bengaluru,Sir M V Nagar,38681
-594,Bengaluru,Bikasipura,18173
-595,Bengaluru,Basaveshwara Nagar Yelahanka,44894
-596,Bengaluru,1st Block Koramangala,36364
-597,Bengaluru,Hoskote,42020
-598,Bengaluru,Attiguppe,11679
-599,Bengaluru,Srirampuram,35070
-600,Bengaluru,Yemlur,33635
-601,Bengaluru,Race Course Road,39818
-602,Bengaluru,Gkvk Layout,20007
-603,Bengaluru,St. John's Road,16670
-604,Bengaluru,Doopanahalli,16816
-605,Bengaluru,Doddaballapur,10930
-606,Bengaluru,Sathanur,27416
-607,Bengaluru,Ramamohanapuram,29971
-608,Bengaluru,kanakapura road,15447
-609,Bengaluru,Kaveri Nagar,20964
-610,Bengaluru,Sundar Ram Shetty Nagar,24792
-611,Bengaluru,"Kirloskar layout, Basaveshwarnagar",46739
-612,Bengaluru,Alfa Garden Layout,14572
-613,Bengaluru,Gowdanapalya,47373
-614,Bengaluru,Hoodi Layout,16319
-615,Bengaluru,Gaundanapalya,19757
-616,Bengaluru,Arasanakunte,37305
-617,Bengaluru,5th block Koramangala,12519
-618,Bengaluru,JakkurYelahanka,42110
-619,Bengaluru,Gunjur Palya,13238
-620,Bengaluru,Upkar Layout,48312
-621,Bengaluru,Sunkadakatte,40086
-622,Bengaluru,Someshwara Layout,24077
-623,Bengaluru,Kathreguppe,49781
-624,Bengaluru,Channasandra Layout,41622
-625,Bengaluru,HAL 3rd Stage,32194
-626,Bengaluru,Doctors Layout,39723
-627,Bengaluru,Austin Town,10400
-628,Bengaluru,Rajagopala Nagar,27171
-629,Bengaluru,Vishwapriya Nagar,38645
-630,Bengaluru,Sarakki Nagar,39379
-631,Bengaluru,Bahubali Nagar,37010
-632,Bengaluru,Lottegolla Halli,20964
-633,Bengaluru,Nandini Layout,30945
-634,Bengaluru,Vibhutipura Extension,22007
-635,Bengaluru,B Channasandra,39404
-636,Bengaluru,Dollars Colony,16035
-637,Bengaluru,Arehalli,49116
-638,Bengaluru,Cambridge  road,46343
-639,Bengaluru,Hennur Gardens,45768
-640,Bengaluru,Thyagaraja Nagar,35696
-641,Bengaluru,Howthinarayanappa Garden,42144
-642,Bengaluru,Bharathi Nagar,29173
-643,Bengaluru,SRINIVASAPURA,14617
-644,Bengaluru,Cambridge Layout,35022
-645,Bengaluru, ittamadu,13631
-646,Bengaluru,Doddakannelli,41058
-647,Bengaluru,Pulkeshi Nagar,25309
-648,Bengaluru,"Thanisandra Main Road, ",18747
-649,Bengaluru,Jayanagar,25897
-650,Bengaluru, Bhoganhalli,35957
-651,Bengaluru,Kumbalgodu,49046
-652,Bengaluru,banashankari stage iii sa,32944
-653,Bengaluru,Amruthnagar,36296
-654,Bengaluru,Palace Guttahalli,43864
-655,Bengaluru,Akshya Nagar,14153
-656,Bengaluru, Anekal,38521
-657,Bengaluru,BCC Layout,32643
-658,Bengaluru,Mathikere,15255
-659,Bengaluru,Friends Colony,41794
-660,Bengaluru,Doddabidrakallu,36540
-661,Bengaluru,Sri Balaji Krupa Layout,35292
-662,Bengaluru,Bidadi,18877
-663,Bengaluru,Sampige Layout,38626
-664,Bengaluru,Virgonagar,38965
-665,Bengaluru,Dodsworth Layout,37186
-666,Bengaluru,"Kudlu Village, ",15757
-667,Bengaluru,Rajiv Gandhi Nagar,27942
-668,Bengaluru,Kurubarahalli,13565
-669,Bengaluru,Sector 4 HSR Layout,30387
-670,Bengaluru,Bhagyalakshmi Avenue,23170
-671,Bengaluru,Kengeri Hobli,18982
-672,Bengaluru,Vyalikaval,39465
-673,Bengaluru,"Banaswadi, ",44273
-674,Bengaluru,Balaji Gardens Layout,17972
-675,Bengaluru,Thavarekere,17969
-676,Bengaluru,HAL 2nd Stage,18572
-677,Bengaluru, Devarabeesana Halli,32035
-678,Bengaluru, Rachenahalli,21992
-679,Bengaluru,Tippenahalli,41257
-680,Bengaluru,Prestige Sunrise,17861
-681,Bengaluru,1st Stage Indira Nagar,24386
-682,Bengaluru,Srigandada Kaval,39635
-683,Bengaluru,Viswajit Layout,12531
-684,Bengaluru,Adityanagar,14481
-685,Bengaluru,BDS Layout,44491
-686,Bengaluru,Shanthi Layout,33532
-687,Bengaluru,Esther Enclave Layout,13549
-688,Bengaluru,Volagerekallahalli,18707
-689,Bengaluru,Keerthi Layout,11962
-690,Bengaluru,Ganga Nagar Extension,30374
-691,Bengaluru,Shikaripalya,25972
-692,Bengaluru,Huttanahalli,34446
-693,Bengaluru,Reliable Woods Layout,16671
-694,Bengaluru,4th T block Jayanagar,18766
-695,Bengaluru,Nayandanahalli,38238
-696,Bengaluru,Hagadur,12531
-697,Bengaluru,Popular Colony,49969
-698,Bengaluru,Soundarya Layout,40664
-699,Bengaluru,"Banashankari 6th Stage ,Subramanyapura",35254
-700,Bengaluru,Amarjyothi Colony,47965
-701,Bengaluru,Pattanagere,41273
-702,Bengaluru,Dollars Layout,21575
-703,Bengaluru,Chikkabettahalli,32252
-704,Bengaluru,Bhuvaneswari Nagar,29409
-705,Bengaluru,Varanasi,17845
-706,Bengaluru,Gopal Reddy Layout,31573
-707,Bengaluru,sankeswari,37690
-708,Bengaluru,T c palya,28227
-709,Bengaluru,Govindraja Nagar,47147
-710,Bengaluru,Virat Nagar,20427
-711,Bengaluru,Chennammanakere Achukattu,25217
-712,Bengaluru,"Maragondana Halli, kr puram, old madras road",40573
-713,Bengaluru,Dhanalakshmi Layout,35578
-714,Bengaluru,Jp nagar 8th Phase .,33519
-715,Bengaluru,Nobo Nagar,47175
-716,Bengaluru,Kanakapura Road,16859
-717,Bengaluru,Kadubeesanahalli,10211
-718,Bengaluru,J P Nagar 7th Phase Ramayya City,40769
-719,Bengaluru,Green Domain Layout,49051
-720,Bengaluru,Cleveland Town,48629
-721,Bengaluru,Syndicate Bank Colony,29778
-722,Bengaluru,"Off Sarjapur road, ",26152
-723,Bengaluru,M C Layout,30955
-724,Bengaluru,Nanjappa Layout,12038
-725,Bengaluru,Dodda Banaswadi,46542
-726,Bengaluru,BEL Layout,29069
-727,Bengaluru,Sri Kanteshwara Nagar,47349
-728,Bengaluru,Bellari Road,42058
-729,Bengaluru,Jyothi Nagar,18170
-730,Bengaluru,Tata Nagar,15908
-731,Bengaluru,RK Layout 2nd Stage,28212
-732,Bengaluru,Tirumanahalli,30155
-733,Bengaluru,Raghuvanahalli,21478
-734,Bengaluru,Geddalahalli,48851
-735,Bengaluru,Brindavan Nagar,18408
-736,Bengaluru,Mariyannapalya,23495
-737,Bengaluru,Palace Road,10090
-738,Bengaluru,Pulikeshi Nagar,26480
-739,Bengaluru,Domlur Layout,40077
-740,Bengaluru,Vijaya Bank Layout,18273
-741,Bengaluru,Narayanappa Layout,48950
-742,Bengaluru,1Hanuman Nagar,40599
-743,Bengaluru,Wilson Garden,38955
-744,Bengaluru,Kumbhena Agrahara,33952
-745,Bengaluru,Challaghatta,14100
-746,Bengaluru,Nyanappana Halli,15458
-747,Bengaluru,Indira Nagar 3rd Stage,42249
-748,Bengaluru,KR Garden,28725
-749,Bengaluru,Kanakadasa Layout,23781
-750,Bengaluru,Mallathahalli,49987
-751,Bengaluru,Jayamahal Extension,44400
-752,Bengaluru,Laxminarayana Layout,20964
-753,Bengaluru,Sahyadri Layout,34822
-754,Bengaluru,Mathikere SBM colony,25981
-755,Bengaluru,"white field,kadugodi",26304
-756,Bengaluru,Bagalur,16309
-757,Bengaluru,Vinayak Nagar,42953
-758,Bengaluru,P Krishnappa Layout,36596
-759,Bengaluru,Crimson Layout,15513
-760,Bengaluru,Hanumantha Nagar,25513
-761,Bengaluru,Bagalakunte,46806
-762,Bengaluru,Lavelle Road,44404
-763,Bengaluru,Goraguntepalya,31116
-764,Bengaluru,Rajankunte,49726
-765,Bengaluru,6th Block Rajaji Nagar,19512
-766,Bengaluru,MLA Layout,16977
-767,Bengaluru,Koramangala Industrial Layout,18983
-768,Bengaluru,Kyalasanahalli,36403
-769,Bengaluru,Nagadevanahalli,37521
-770,Bengaluru,Madiwala,12908
-771,Bengaluru,Rajarajeshwari Nagara,18480
-772,Bengaluru,Celebrity Paradise Layout,43963
-773,Bengaluru,St Thomas Town,42609
-774,Bengaluru,Ckikkakammana Halli,43757
-775,Bengaluru,Banashankari 2nd Stage,33852
-776,Bengaluru,Munivenkatppa Layout,22289
-777,Bengaluru,Kamala Nagar,35080
-778,Bengaluru,Kumarapalli,12033
-779,Bengaluru,Marenahalli,27154
-780,Bengaluru,Nagawara Junction,42757
-781,Bengaluru,Maithri Layout,35521
-782,Bengaluru,Raja Rajeshwari Nagar 5th Stage,14056
-783,Bengaluru,Nanjappa Garden,21634
-784,Bengaluru,Vayunandana Layout,10235
-785,Bengaluru,Geetanjali Layout,26593
-786,Bengaluru,Kenchenhalli,11028
-787,Bengaluru,"EPIP AREA, WHITEFIELD",17622
-788,Bengaluru,1st Stage Domlur,30191
-789,Bengaluru,"RMV extension stage 2, rmv extension",35657
-790,Bengaluru,Kalhalli,26729
-791,Bengaluru,Hadosiddapura,47271
-792,Bengaluru,Vijaya Bank Colony,20171
-793,Bengaluru,Lakkasandra,16536
-794,Bengaluru,"JP Nagar 8th Phase, ",28908
-795,Bengaluru,Kachanayakanahalli,23124
-796,Bengaluru,Nagaraja Garden,25777
-797,Bengaluru,1 Annasandrapalya,31441
-798,Bengaluru,6th block Koramangala,31021
-799,Bengaluru,"JP nagar 9th Phase, ",29679
-800,Bengaluru,4th Block Jayanagar,29813
-801,Bengaluru,Kuvempu Nagar,47946
-802,Bengaluru,Karnataka Shabarimala,30046
-803,Bengaluru,Canara Bank Colony,22848
-804,Bengaluru,Hanumagiri,12008
-805,Bengaluru,Seshadripuram,46587
-806,Bengaluru,Akshayanagara West,24775
-807,Bengaluru,Prasanth Extension,22939
-808,Bengaluru,Chikkathoguru,32690
-809,Bengaluru,Anand nagar,35785
-810,Bengaluru,West of Chord Road,29090
-811,Bengaluru,Junnasandra,28832
-812,Bengaluru,Handenahalli,45893
-813,Bengaluru,manyata tech park,14643
-814,Bengaluru,Sarvabhouma Nagar,12020
-815,Bengaluru,SMV layout,30885
-816,Bengaluru,CQAL LAYOUT C BLOCK,46335
-817,Bengaluru,"Near Electronic City, ",46987
-818,Bengaluru,Banashankari stage 2,17036
-819,Bengaluru,Doddanakundi Industrial Area 2,42829
-820,Bengaluru,OLd Gurappanapalya,30672
-821,Bengaluru,Chikkadunnasandra,47114
-822,Bengaluru,Indranagar  100ft road defence colony,22660
-823,Bengaluru,Wajid layout thanisandra,19475
-824,Bengaluru,Achins Road,47463
-825,Bengaluru,Uvce Layout,14766
-826,Bengaluru,Gattigere,38320
-827,Bengaluru,Cottonpet,39562
-828,Bengaluru,singapura paradise,19977
-829,Bengaluru,Kannur,48451
-830,Bengaluru,Sampangi Rama Nagar,19392
-831,Bengaluru,BEML Layout 5th stage,33409
-832,Bengaluru,Pragathi Nagar,12850
-833,Bengaluru,Ramesh Nagar,28773
-834,Bengaluru,A Narayanapura,42531
-835,Bengaluru,Amblipura,16308
-836,Bengaluru,Rajarajeshwari nagar,37201
-837,Bengaluru,Rajarajeshwarinagar,15584
-838,Bengaluru,Jinkethimmanahalli,24000
-839,Bengaluru,Vimanapura,42332
-840,Bengaluru,1st Stage Radha Krishna Layout,48330
-841,Bengaluru,Bapuji Layout,31629
-842,Bengaluru,Vasantapura main road,29376
-843,Bengaluru,CQAL Layout,30419
-844,Bengaluru,Venugopal Reddy Layout,15064
-845,Bengaluru,Lake City,48633
-846,Bengaluru,Lakshmipura,32156
-847,Bengaluru,Old Town,47135
-848,Bengaluru,Okalipura,31901
-849,Bengaluru,Maruthi Extension,27955
-850,Bengaluru,Vidyapeeta,15719
-851,Bengaluru,Meenakshi Layout,48972
-852,Bengaluru,S R Layout,17973
-853,Bengaluru,GD Layout,41463
-854,Bengaluru,Kithaganur,19031
-855,Bengaluru,Shirdi Sai Nagar,32554
-856,Bengaluru,"JP Nagar 7th Phase, ",41772
-857,Bengaluru,J C Nagar,11823
-858,Bengaluru,Sadduguntepalya,16510
-859,Bengaluru,Doddakammanahalli,13003
-860,Bengaluru,Bidrahalli,39108
-861,Bengaluru,Medi Agrahara,42075
-862,Bengaluru,whitefiled,37207
-863,Bengaluru,Subbannaiah Palya,37482
-864,Bengaluru,N R Layout,28288
-865,Bengaluru,Richards Town,49125
-866,Bengaluru,Manorayana Palya,15419
-867,Bengaluru,Madanayakahalli,39043
-868,Bengaluru,Mahalakshmi Puram,21988
-869,Bengaluru,Jaladarsini Layout,36980
-870,Bengaluru,Attur Layout,39597
-871,Bengaluru,Brooke Bond First Cross,47933
-872,Bengaluru,Glass Factory Layout,49818
-873,Bengaluru,Milk Colony,19705
-874,Bengaluru,"Basnashankari,6th stage,",32916
-875,Bengaluru,Near ullas theater,21139
-876,Bengaluru,Chikkakannalli,39315
-877,Bengaluru,Yeshwanthpur Industrial Suburb,25521
-878,Bengaluru,Nandi Hills,49013
-879,Bengaluru,Thanisandra main road,44601
-880,Bengaluru,Saptagiri Layout,23516
-881,Bengaluru,Doddabanahalli,19264
-882,Bengaluru, Electronic City,32314
-883,Bengaluru,Vijayabank bank layout,44132
-884,Bengaluru,D Group Employees Layout,22350
-885,Bengaluru,Hosahalli Extension,16412
-886,Bengaluru,1Channasandra,36003
-887,Bengaluru,"Whitefield, ",12502
-888,Bengaluru,Kempegowda Nagar,14619
-889,Bengaluru,Vaderahalli,36468
-890,Bengaluru,4th Phase JP Nagar,26550
-891,Bengaluru,K R C kothanur,48182
-892,Bengaluru,2nd Block Jayanagar,41720
-893,Bengaluru,Singanayakanahalli,31592
-894,Bengaluru,Udaya Nagar,36122
-895,Bengaluru, Whitefield,10663
-896,Bengaluru,Vaishnavi Layout,35797
-897,Bengaluru,Housing Board Layout Vijay Nagar,45676
-898,Bengaluru,Thomas Town,40581
-899,Bengaluru,Manganahalli,19899
-900,Bengaluru,Indra Nagar,19242
-901,Bengaluru,t.c palya,18982
-902,Bengaluru,Ilyas Nagar,35722
-903,Bengaluru,3rd Phase JP Nagar,10780
-904,Bengaluru,kanakapura main road,17081
-905,Bengaluru,Reliaable Tranquil Layout,28275
-906,Bengaluru,Mailasandra,33684
-907,Bengaluru,Basvasamithi Layout Vidyaranyapura,12262
-908,Bengaluru,8th Block Jayanagar,40895
-909,Bengaluru,Atmananda Colony,37643
-910,Bengaluru,Baba Nagar,36661
-911,Bengaluru,Badrappa Layout,14592
-912,Bengaluru,Lal Bahadur Shastri Nagar,38552
-913,Bengaluru,Puttappa Layout,22998
-914,Bengaluru,"Ananthanagar Phase 1,Electronic City , phase 2",41901
-915,Bengaluru,Bethel Nagar,14101
-916,Bengaluru,Kirloskar Layout,10069
-917,Bengaluru,tc.palya,25613
-918,Bengaluru,Dollar Scheme Colony,44436
-919,Bengaluru,Omarbagh Layout,42503
-920,Bengaluru,anjananager magdi road,38943
-921,Bengaluru,Kodipalya,10570
-922,Bengaluru,Aishwarya Crystal Layout,37922
-923,Bengaluru,DUO Layout,24439
-924,Bengaluru,Srinivas Colony,37714
-925,Bengaluru,Moodalapalya,29546
-926,Bengaluru,Gokaula Extension,48573
-927,Bengaluru,Subash Nagar,26375
-928,Bengaluru,RTO ullalu,32162
-929,Bengaluru,Carmelaram,16001
-930,Bengaluru,Hennur Bande,23704
-931,Bengaluru,"ravindra nagar, T.dasarahalli peenya",32067
-932,Bengaluru,1st Block BEL Layout,36761
-933,Bengaluru,Prakruthi Township,49008
-934,Bengaluru,Bennigana Halli,40657
-935,Bengaluru,Seethappa Layout,14757
-936,Bengaluru,Langford Gardens,34049
-937,Bengaluru,"Bellandur, ",29303
-938,Bengaluru,Marasandra,14417
-939,Bengaluru,Kalkere Channasandra,46665
-940,Bengaluru,Shakthi Nagar,38026
-941,Bengaluru,Ullal Uppanagar,32123
-942,Bengaluru, south,26717
-943,Bengaluru,Rainbow Drive,15380
-944,Bengaluru,3rd Block Koramangala,49275
-945,Bengaluru,Jakkasandra Extension,13246
-946,Bengaluru,Ganesha Block,42625
-947,Bengaluru,Malur Hosur Road,49318
-948,Bengaluru,Lakshmipura Vidyaanyapura,43664
-949,Bengaluru,Hegganahalli,15304
-950,Bengaluru,Rajanna Layout,21713
-951,Bengaluru,Nagarbhavi  BDA Complex,27325
-952,Bengaluru,Gidada Konnenahalli,42958
-953,Bengaluru,Rahat Bagh,41604
-954,Bengaluru,Escorts Colony,17964
-955,Bengaluru,"asha township, off hennur road",11138
-956,Bengaluru,1A Block Koramangala,48281
-957,Bengaluru,Near International Airport,23956
-958,Bengaluru,NTI Layout,15525
-959,Bengaluru,Fraser town,11956
-960,Bengaluru,Dasappa Layout,46573
-961,Bengaluru,Sonam Layout,11169
-962,Bengaluru,CR Layout,42314
-963,Bengaluru,BTM 4th Stage,49445
-964,Bengaluru,Arekempanahalli,26605
-965,Bengaluru,Chamundi Nagar,16546
-966,Bengaluru,MRCR Layout,46049
-967,Bengaluru,Shettihalli,13767
-968,Bengaluru,Gangondanahalli,31740
-969,Bengaluru,Ullal Road,16804
-970,Bengaluru,Hullahalli,11756
-971,Bengaluru,Jagajyothi layout,19340
-972,Bengaluru,Lakkasandra Extension,24997
-973,Bengaluru,Krishna Reddy Layout,15469
-974,Bengaluru,Kuvempu Layout,35869
-975,Bengaluru,Chickpet,24600
-976,Bengaluru,T G extension,21666
-977,Bengaluru,2nd Block Koramangala,37090
-978,Bengaluru,Devi Nagar,25446
-979,Bengaluru,GKW Layout,22016
-980,Bengaluru,Gandhi Nagar,26533
-981,Bengaluru,Jnana Ganga Nagar,27388
-982,Bengaluru,rr nagar,41813
-983,Bengaluru,Harohalli,18202
-984,Bengaluru,Stage-4 Bommanahalli,42216
-985,Bengaluru,Venkateshpuram,40745
-986,Bengaluru,"Judicial Layout, Kanakapura Road, ",19801
-987,Bengaluru,Mullur,35154
-988,Bengaluru,J.P.nagar 6th Phase.Sarakki Nagar,49965
-989,Bengaluru,Doddabele,21640
-990,Bengaluru,Sadahalli,43212
-991,Bengaluru,Sathya Layout,17753
-992,Bengaluru,5 Bedroom Farm House in Lakshmipura,12234
-993,Bengaluru,Shanti Nagar,16800
-994,Bengaluru,2nd Stage Arekere Mico Layout,24115
-995,Bengaluru,Jayamahal,22035
-996,Bengaluru,Veer Sandra,26100
-997,Bengaluru,Chennappa Layout,24224
-998,Bengaluru,RMV Extension Stage 2,20126
-999,Bengaluru,Sadanand Nagar,31590
-1000,Bengaluru,"Whietfield, ",23395
-1001,Bengaluru,BTM Layout 1stage 9th Main,28952
-1002,Bengaluru,Lavakusha Nagar,38129
-1003,Bengaluru,Vittal Mallya Road,46780
-1004,Bengaluru,Dena Bank Colony,20767
-1005,Bengaluru,Kadabagere,41799
-1006,Bengaluru,1st Block HBR Layout,15270
-1007,Bengaluru,High grounds,22493
-1008,Bengaluru,Kothnoor Dinne,25175
-1009,Bengaluru,Guddadahalli,10137
-1010,Bengaluru,Vasanthpura,37874
-1011,Bengaluru,Kasthuri Nagar East Of NGEF,24175
-1012,Bengaluru,Chikka Gowdanapalya.,11023
-1013,Bengaluru,"TR Mill Road, Chamarajpet",45319
-1014,Bengaluru,Nirman Layout,47285
-1015,Bengaluru,Chokkahalli,21382
-1016,Bengaluru,Telecom Layout,25815
-1017,Bengaluru,Vikram Nagar,44897
-1018,Bengaluru,Virupakshapura,17943
-1019,Bengaluru,Muthyala Nagar,25320
-1020,Bengaluru,Nrupathunga Nagar,30285
-1021,Bengaluru,Coconut Grove Layout,24560
-1022,Bengaluru,Amrita Nagar,47965
-1023,Bengaluru,RR Layout,45513
-1024,Bengaluru,Billapura,45423
-1025,Bengaluru,KHB Colony Extension,24382
-1026,Bengaluru,Anjana Nagar,25386
-1027,Bengaluru,Subramanya Nagar,25521
-1028,Bengaluru,Janatha Colony,31984
-1029,Bengaluru,Veersandra,24116
-1030,Bengaluru,Harsha Layout,28243
-1031,Bengaluru,Tigalarpalya,48390
-1032,Bengaluru,2nd Block Bel Layout,34630
-1033,Bengaluru,sarjapura main road,33776
-1034,Bengaluru,Anekal - Hosur Road,24937
-1035,Bengaluru,Ramamurthy Nagar Extension,44772
-1036,Bengaluru,"2nd phase jp nagar, jp nagar",38012
-1037,Bengaluru,BEML Layout 5th Stage,41312
-1038,Bengaluru,Manonarayanapalya,21148
-1039,Bengaluru,M V Extenstion,42154
-1040,Bengaluru,Kamdhenu Nagar,45684
-1041,Bengaluru,Ganganahalli,47913
-1042,Bengaluru,Narayanappa Garden,31818
-1043,Bengaluru,Rest House Road,44434
-1044,Bengaluru,Ex-Servicemen Colony Dinnur Main Road R.T.Nagar,20434
-1045,Bengaluru,Vijay Nagar,45550
-1046,Bengaluru,CMH Road,14363
-1047,Bengaluru,Ankappa Layout,27953
-1048,Bengaluru,Neelasandra,28790
-1049,Bengaluru,Yediyur,25315
-1050,Bengaluru,Upadhyaya Layout,37004
-1051,Bengaluru,bsk 6th stage 2ad block near sri conversation hall,32502
-1052,Bengaluru,"Annapoorneshwari Layout, JP nagar 7th phase",12399
-1053,Bengaluru,Mudalpalaya,19364
-1054,Bengaluru,elachenahalli,40069
-1055,Bengaluru,B K Nagar,11839
-1056,Bengaluru,Vivek Nagar,48785
-1057,Bengaluru, Basavangudi,33184
-1058,Bengaluru,"Banashankari 6th stage , 2nd block",18810
-1059,Bengaluru,KG Halli,11865
-1060,Bengaluru,Cubbon Road,49471
-1061,Bengaluru,Veerabhadra Nagar,35379
-1062,Bengaluru,Vidhyanagar Cross,43657
-1063,Bengaluru,6th Block Jayanagar,17888
-1064,Bengaluru,Punappa Layout,20573
-1065,Bengaluru,Pampa Extension,38350
-1066,Bengaluru, Sector 1 HSR Layout,31567
-1067,Bengaluru,Basaveswarnagar,12817
-1068,Bengaluru,Jaymahal Road,22378
-1069,Bengaluru,Nagarbhavi Garden Villas Layout,42573
-1070,Bengaluru,Agrahara Dasarahalli,46170
-1071,Bengaluru,T R Mill Road,32118
-1072,Bengaluru,Indira Nagar Stage 2,28040
-1073,Bengaluru,Hommadevanahalli,38479
-1074,Bengaluru,BTM Layout 2nd Stage 1st Phase,24188
-1075,Bengaluru,T C Palya main Road,10158
-1076,Bengaluru,1 Immadihalli,30522
-1077,Bengaluru,Navodaya Nagar,20514
-1078,Bengaluru,Guni Agrahara,38958
-1079,Bengaluru,Shankarapuram,39593
-1080,Bengaluru,Shetty Halli,38291
-1081,Bengaluru,AGB Layout,15263
-1082,Bengaluru,Bilal Nagar,48792
-1083,Bengaluru,Krishna Nagar,37513
-1084,Bengaluru,Kanakapura Main Road,16777
-1085,Bengaluru,Suryanagar,48098
-1086,Bengaluru,Duvasapalya,45014
-1087,Bengaluru,BCMC Layout,27969
-1088,Bengaluru,Kengeri Satellite Town Stage II,16836
-1089,Bengaluru,Church Street,43887
-1090,Bengaluru,Uday Nagar,16039
-1091,Bengaluru,Chaitanya Ananya,22824
-1092,Bengaluru,Nagashetty Halli,31654
-1093,Bengaluru,Byrasandra Extension,29230
-1094,Bengaluru,Sri Sai Layout,25226
-1095,Bengaluru,Devara Jeevanahalli,24746
-1096,Bengaluru,SK Garden,21489
-1097,Bengaluru,PNS Layout,16534
-1098,Bengaluru,"Electronic city Phase 1, ",35085
-1099,Bengaluru, Banaswadi,44721
-1100,Bengaluru,Naidu Layout,16132
-1101,Bengaluru,Sugama Layout,49609
-1102,Bengaluru,Behind Don Bosco Church,42191
-1103,Bengaluru,Anugrah Layout,32188
-1104,Bengaluru,Bandepalya,41105
-1105,Bengaluru,poornaprajna layout,33245
-1106,Bengaluru,Annapurneshwari Nagar,40184
-1107,Bengaluru,Somanna Garden,19286
-1108,Bengaluru,RPC layout,28214
-1109,Bengaluru,"HSR Layout 7th sector, ",31958
-1110,Bengaluru,Bettadasanapura,19213
-1111,Bengaluru,Gulimangala,26262
-1112,Bengaluru,Addischetan Layout,15717
-1113,Bengaluru,Konena Agrahara,27686
-1114,Bengaluru,Raghavendra Layout,33244
-1115,Bengaluru,Varsova Layout,13939
-1116,Bengaluru,Bhattarahalli,49788
-1117,Bengaluru,Bande Nallasandra,11890
-1118,Bengaluru,HAL Layout,24643
-1119,Bengaluru,Vidya Nagar,20495
-1120,Bengaluru,Shingapura,47715
-1121,Bengaluru,SHANTHINAGAR,43981
-1122,Bengaluru,Jay an agar 4 T Block,31030
-1123,Bengaluru,Satyasaibaba Layout,28605
-1124,Bengaluru,Queens Road,38989
-1125,Bengaluru,Koppa,19781
-1126,Bengaluru,RR Nagar,10544
-1127,Bengaluru,Jagadish Nagar,48662
-1128,Bengaluru,3rd Phase Iti Layout,20520
-1129,Bengaluru,"Ananthapura, T C palaya Main Road",49261
-1130,Bengaluru,Phase 1 Kammasandra,49774
-1131,Bengaluru,Deepanjali Nagar,21442
-1132,Bengaluru,SARJAPUR BAGALUR ROAD,32286
-1133,Bengaluru,B Y Raveshwara Nagar,46322
-1134,Bengaluru,KEB Colony,35499
-1135,Bengaluru,HOSUR RMAIN ROAD,34483
-1136,Bengaluru,Konappana Agrahara,22455
-1137,Bengaluru,Rajasree Layout,32855
-1138,Bengaluru,Vinayaka Layout,39291
-1139,Bengaluru,Thirumalashettyhally,36936
-1140,Bengaluru,Bharathnagar,29708
-1141,Bengaluru,5th Block Jayanagar,45579
-1142,Bengaluru,"Jayanagar, ",13377
-1143,Bengaluru,Asthagrama Layout,47298
-1144,Bengaluru,Rajarajesheari nagar,22717
-1145,Bengaluru,Millers Road,37600
-1146,Bengaluru,2nd Block Hbr Layout,27861
-1147,Bengaluru,Madavara,46242
-1148,Bengaluru,Dwaraka Nagar,13834
-1149,Bengaluru,Garebhavipalya,49489
-1150,Bengaluru,Neelamangala,23790
-1151,Bengaluru,Banashankari 6th Stage,24394
-1152,Bengaluru,Brindavan Layout,27091
-1153,Bengaluru,Chambenahalli,33894
-1154,Bengaluru,cooketown,12649
-1155,Bengaluru,Kathriguppe IV Phase,16460
-1156,Bengaluru,Ramchandrapuram,19921
-1157,Bengaluru,1Hoysalanagar,42931
-1158,Bengaluru,PC Palaya,46796
-1159,Bengaluru,Soppahalli,44522
-1160,Bengaluru,Aavalahalli,36070
-1161,Bengaluru,Jayanti Nagar,30288
-1162,Bengaluru,Virudhu Nagar,22632
-1163,Bengaluru,kamanahalli main road,39053
-1164,Bengaluru,7th Block Koramangala,33474
-1165,Bengaluru,Prakash Nagar,27610
-1166,Bengaluru,Bharat Nagar,13229
-1167,Bengaluru,Ramanashree Enclave,40445
-1168,Bengaluru,"Yelahanka,MVIT college",46160
-1169,Bengaluru,Chikku Lakshmaiah Layout,38048
-1170,Bengaluru,Gnana Bharathi,11777
-1171,Bengaluru,Pillahalli,18405
-1172,Bengaluru,Ashok Nagar,43980
-1173,Bengaluru,Gollarahatti,18593
-1174,Bengaluru,Venkateswara Nagar,34106
-1175,Bengaluru,Chikkagubbi,10054
-1176,Bengaluru,Banashankari 2 nd Stage,47140
-1177,Bengaluru,Kammagondahalli,24714
-1178,Bengaluru,Nanjappa Layout Vidyaranyapura,12095
-1179,Bengaluru,Rammana Layout,11541
-1180,Bengaluru,Rajapura,39111
-1181,Bengaluru,Raja Rajeshwari Nagara,36763
-1182,Bengaluru,Govindapura,44584
-1183,Bengaluru,Thirupalya,30675
-1184,Bengaluru,Off Bannergatta road,19616
-1185,Bengaluru,Hoskote near,17626
-1186,Bengaluru,"Haralur Road, ",30388
-1187,Bengaluru,Adugodi,41572
-1188,Bengaluru,RK Colony,46822
-1189,Bengaluru,2 Bedroom Furnished Farm House in Kolar Road,25457
-1190,Bengaluru,kg halli jalhalli west,39040
-1191,Bengaluru,Vasatha Vallbha Nagar,11311
-1192,Bengaluru,BAGUR ROAD,28490
-1193,Bengaluru,Balepet,21621
-1194,Bengaluru,Annasandrapalya,25455
-1195,Bengaluru,RMC YARD,41314
-1196,Bengaluru,"Panathur Road, ",28553
-1197,Bengaluru,Shanthi Pura,31660
-1198,Bengaluru,Viviani Road,14637
-1199,Bengaluru,Sampangirama Nagar,21559
-1200,Bengaluru,Doctor Layout Rayasandra,43953
-1201,Bengaluru,Anwar Layout,33302
-1202,Bengaluru,Pillanna Gardens,32281
-1203,Bengaluru,AECS LAYOUT A-BLOCK Singasandra,49534
-1204,Bengaluru,Banashankari Stage I,17123
-1205,Bengaluru,4th Block HBR Layout,36739
-1206,Bengaluru,Michael Palaya,33510
-1207,Bengaluru,RBI Layout,11636
-1208,Bengaluru,Akash Nagar,26962
-1209,Bengaluru,Shauhardha Layout,23132
-1210,Bengaluru,Bhoopsandra,28662
-1211,Bengaluru,"Electronic city phase 1, ",46307
-1212,Bengaluru,Anathanagar,28949
-1213,Bengaluru,vinayakanagar,49517
-1214,Bengaluru,Jaraganahalli Jp Nagar Post,49752
-1215,Bengaluru,adigondanhalli,32428
-1216,Bengaluru,Off Bannergatta Road,49111
-1217,Bengaluru,Kanakapura  Rod,42538
-1218,Bengaluru,Richmond Road,19310
-1219,Bengaluru,Postal Colony,25584
-1220,Bengaluru,"MEI layout, Bagalgunte",27866
-1221,Bengaluru,Jeevanhalli,46720
-1222,Bengaluru,"Gubbi Cross, Hennur Main Road",44113
-1223,Bengaluru,Sabari Nagar,35461
-1224,Bengaluru,Ashraya Layout,22051
-1225,Bengaluru,Arishinakunte,27138
-1226,Bengaluru,Infantry Road,46014
-1227,Bengaluru,Whitefield ECC Road,12655
-1228,Bengaluru,Maruthi nagar kogilu,37880
-1229,Bengaluru,Ayappa Nagar,19964
-1230,Bengaluru,Billamaranahalli,11566
-1231,Bengaluru,Prasanti Nagar,23991
-1232,Bengaluru,"Banasawadi, ",15085
-1233,Bengaluru,Sunkan palya,46056
-1234,Bengaluru,Gayathri Nagar,16549
-1235,Bengaluru,Old Mangammanapalya Road,25230
-1236,Bengaluru,1Kasavanhalli,31360
-1237,Bengaluru,"Kanakapura Road, ",33388
-1238,Bengaluru,Hal old airport road,15529
-1239,Bengaluru,arudi,49084
-1240,Bengaluru,Anantapuram,27029
-1241,Bengaluru,Javarandoddi,40618
-1242,Bengaluru,Vijaypura,25164
-1243,Bengaluru,Bapuji Nagar,42257
-1244,Bengaluru,Amam Enclave Layout,32807
-1245,Bengaluru,Allalasandra,18407
-1246,Bengaluru,Ramanagara Channapatna,37360
-1247,Bengaluru,Maheswari Nagar,26385
-1248,Bengaluru,Hsr layout sector3,45045
-1249,Bengaluru,Thyagraj Nagar,15079
-1250,Bengaluru,Banagirinagar,23060
-1251,Bengaluru,Medaralli,38413
-1252,Bengaluru,Versova Layout,40017
-1253,Bengaluru,Chikkajala,18096
-1254,Bengaluru,Udayagiri,33075
-1255,Bengaluru,pavitra paradise,15632
-1256,Bengaluru,kadubisnahalli,36092
-1257,Bengaluru,Rahmath Nagar,46997
-1258,Bengaluru,Chikkanahalli,40009
-1259,Bengaluru,Halanayakanahalli,23611
-1260,Bengaluru,Park View Layout,32004
-1261,Bengaluru,Xavier Layout,27138
-1262,Bengaluru,Air View Colony,49167
-1263,Bengaluru,akshaya nagar t c palya,11446
-1264,Bengaluru,mvj engineering college,45434
-1265,Bengaluru,Raja Rajashweri Nagar,29295
-1266,Bengaluru,basaveshwarnagar,44821
-1267,Bengaluru,"Banashankari 3rd stage, Vivekanandanagar",34137
-1268,Bengaluru,Annaiah Reddy Layout,40689
-1269,Bengaluru,manyata,47361
-1270,Bengaluru,LIC Colony,19529
-1271,Bengaluru,Mallappa Layout,10471
-1272,Bengaluru,3rd Stage Raja Rajeshwari Nagar,30516
-1273,Bengaluru,Dominic Layout,41025
-1274,Bengaluru,KAMAKIYA,24238
-1275,Bengaluru,Wheelers Road,17391
-1276,Bengaluru,MM Layout,19337
-1277,Bengaluru,Devarabeesana Halli,29791
-1278,Bengaluru,"beml layout, basaveshwara nagar",32112
-1279,Bengaluru,Sadhguru Layout,25007
-1280,Bengaluru,Chikbasavanapura,23026
-1281,Bengaluru,"Electronic City Phase 1, ",12760
-1282,Bengaluru,Chuchangatta Colony,45978
-1283,Bengaluru,Hanuman Nagar,36465
-1284,Bengaluru,Kengeri Satellite Town KHB Apartment,21333
-1285,Bengaluru,Subhash Nagar,49337
-1286,Bengaluru,Jogupalya,28579
-1287,Bengaluru,Doddanakunte,27263
-1288,Bengaluru,Duddanahalli,10067
-1289,Bengaluru,"Beml layout, Rajarajeshwari nagar",37530
-1290,Bengaluru,Gulakamale,34476
-1291,Bengaluru,Jakkasandra,23499
-1292,Bengaluru,Chellikere,11232
-1293,Bengaluru,Zuzuvadi,17652
-1294,Bengaluru,Kanakapura main  Road,22382
-1295,Bengaluru,Masjid e Alkareem,43278
-1296,Bengaluru,Sindhi Colony,46782
-1297,Bengaluru,Kanakapur main road,44641
-1298,Bengaluru,Prasanna layout Herohalli,39951
-1299,Bengaluru,Sarvobhogam Nagar,20678
-1300,Bengaluru,Pattegarhpalya,21535
-1301,Bengaluru,Tilak Nagar,10426
-1302,Bengaluru,12th cross srinivas nagar banshankari 3rd stage,23420
-1303,Bengaluru,Havanur extension,41782
-1304,Bengaluru,Abshot Layout,20307
+0,Bengaluru,Electronic City Phase II,14757
+1,Bengaluru,Chikka Tirupathi,15151
+2,Bengaluru,Uttarahalli,29632
+3,Bengaluru,Lingadheeranahalli,44641
+4,Bengaluru,Kothanur,23626
+5,Bengaluru,Whitefield,24732
+6,Bengaluru,Old Airport Road,48684
+7,Bengaluru,Rajaji Nagar,40653
+8,Bengaluru,Marathahalli,33737
+9,Bengaluru,Gandhi Bazar,11953
+10,Bengaluru,7th Phase JP Nagar,18958
+11,Bengaluru,Gottigere,30878
+12,Bengaluru,Sarjapur,19473
+13,Bengaluru,Mysore Road,44192
+14,Bengaluru,Bisuvanahalli,43579
+15,Bengaluru,Raja Rajeshwari Nagar,23664
+16,Bengaluru,Ramakrishnappa Layout,40673
+17,Bengaluru,Manayata Tech Park,47376
+18,Bengaluru,Kengeri,28207
+19,Bengaluru,Binny Pete,23935
+20,Bengaluru,Thanisandra,26506
+21,Bengaluru,Bellandur,23421
+22,Bengaluru, Thanisandra,42543
+23,Bengaluru,Mangammanapalya,38010
+24,Bengaluru,Electronic City,43555
+25,Bengaluru,Ramagondanahalli,22744
+26,Bengaluru,Yelahanka,28560
+27,Bengaluru,Hebbal,42302
+28,Bengaluru,Kasturi Nagar,44120
+29,Bengaluru,Kanakpura Road,20840
+30,Bengaluru,Electronics City Phase 1,41403
+31,Bengaluru,Kundalahalli,30368
+32,Bengaluru,Chikkalasandra,21170
+33,Bengaluru,Murugeshpalya,44417
+34,Bengaluru,Sarjapur  Road,40839
+35,Bengaluru,Ganga Nagar,26877
+36,Bengaluru,HSR Layout,22511
+37,Bengaluru,Doddathoguru,21831
+38,Bengaluru,KR Puram,28746
+39,Bengaluru,Himagiri Meadows,37210
+40,Bengaluru,Adarsh Nagar,12057
+41,Bengaluru,Bhoganhalli,44957
+42,Bengaluru,Lakshminarayana Pura,43907
+43,Bengaluru,Begur Road,10152
+44,Bengaluru,Devanahalli,11151
+45,Bengaluru,Govindaraja Nagar Ward,16977
+46,Bengaluru,Tharabanahalli,47895
+47,Bengaluru,Varthur,48208
+48,Bengaluru,Bommanahalli,22211
+49,Bengaluru,Gunjur,47730
+50,Bengaluru,Devarachikkanahalli,44701
+51,Bengaluru,Double Road,29166
+52,Bengaluru,Hegde Nagar,18901
+53,Bengaluru,Haralur Road,49102
+54,Bengaluru,Hennur Road,27944
+55,Bengaluru,Kothannur,39090
+56,Bengaluru,Kalena Agrahara,27776
+57,Bengaluru,Cholanayakanahalli,36275
+58,Bengaluru,Kaval Byrasandra,27166
+59,Bengaluru,ISRO Layout,24464
+60,Bengaluru,Kodanda Reddy Layout,38605
+61,Bengaluru,Garudachar Palya,11665
+62,Bengaluru,EPIP Zone,17772
+63,Bengaluru,Dasanapura,20070
+64,Bengaluru,Kasavanhalli,33472
+65,Bengaluru,Sanjay nagar,36007
+66,Bengaluru, Mysore Highway,35928
+67,Bengaluru,Domlur,16459
+68,Bengaluru,Sarjapura - Attibele Road,38167
+69,Bengaluru,Devasthanagalu,34759
+70,Bengaluru,T Dasarahalli,26830
+71,Bengaluru,Yeshwanthpur,43457
+72,Bengaluru,Chandapura,45487
+73,Bengaluru,Green View Layout,20954
+74,Bengaluru,Shantiniketan Layout,12292
+75,Bengaluru,Peenya,45085
+76,Bengaluru,Nagarbhavi,28621
+77,Bengaluru,Jalahalli West,43860
+78,Bengaluru,Lakshmiamma Garden,41016
+79,Bengaluru,Byatarayanapura,38573
+80,Bengaluru,Ramamurthy Nagar,19461
+81,Bengaluru,Malleshwaram,19995
+82,Bengaluru,Akshaya Nagar,29778
+83,Bengaluru,Shampura,37392
+84,Bengaluru,Kadugodi,47992
+85,Bengaluru,LB Shastri Nagar,38688
+86,Bengaluru,Vajarahalli,21715
+87,Bengaluru,Hormavu,28802
+88,Bengaluru,Vishwapriya Layout,13963
+89,Bengaluru,Ramaswamy Palya - Kammanahalli Main Road,37033
+90,Bengaluru,Kudlu Gate,13250
+91,Bengaluru,8th Phase JP Nagar,26618
+92,Bengaluru,Bommasandra Industrial Area,30660
+93,Bengaluru,Chandra Layout,20474
+94,Bengaluru,Anandapura,39081
+95,Bengaluru,Vishveshwarya Layout,27572
+96,Bengaluru,Kengeri Satellite Town,38704
+97,Bengaluru,Basavanapura,41640
+98,Bengaluru,Dinnur,45592
+99,Bengaluru,Kannamangala,23286
+100,Bengaluru, Devarachikkanahalli,36304
+101,Bengaluru,Sanjeevini Nagar,37293
+102,Bengaluru,Hulimavu,34348
+103,Bengaluru,Mahalakshmi Layout,45263
+104,Bengaluru,Yarandahalli,25952
+105,Bengaluru,Hosa Road,33129
+106,Bengaluru,Keshava Nagar,29670
+107,Bengaluru,RMV Extension,13763
+108,Bengaluru,Tejaswini Nagar,34958
+109,Bengaluru,Jai Bheema Nagar,34176
+110,Bengaluru,Kothnur Narayanapura,47068
+111,Bengaluru,Attibele,15599
+112,Bengaluru,CV Raman Nagar,33163
+113,Bengaluru,CHIKKATIRUPATHI,26314
+114,Bengaluru,Kumaraswami Layout,42437
+115,Bengaluru,Nagavara,43578
+116,Bengaluru,Hebbal Kempapura,17399
+117,Bengaluru,Vijayanagar,49536
+118,Bengaluru,8th block Koramangala,28985
+119,Bengaluru,Jakkuru Layout,19117
+120,Bengaluru,Pattandur Agrahara,36054
+121,Bengaluru,Ejipura,24359
+122,Bengaluru,MS Pallya,27482
+123,Bengaluru,Nagasandra,47238
+124,Bengaluru,Langford Town,46262
+125,Bengaluru,Kogilu,30856
+126,Bengaluru,Panathur,48079
+127,Bengaluru,Nagondanahalli,41218
+128,Bengaluru,Padmanabhanagar,25174
+129,Bengaluru,1st Block Jayanagar,16266
+130,Bengaluru,Kammasandra,28862
+131,Bengaluru,"Off Sarjapur Road, ",14214
+132,Bengaluru,Tala Cauvery Layout,40075
+133,Bengaluru,Dasarahalli,46537
+134,Bengaluru,Magadi Road,40347
+135,Bengaluru,Ngef Layout,45185
+136,Bengaluru,Koramangala,37259
+137,Bengaluru,"Lakshminarayanapura, Electronic City Phase 2",42458
+138,Bengaluru,Muthurayya Swamy Layout,48166
+139,Bengaluru,Dommasandra,11318
+140,Bengaluru,Budigere,28649
+141,Bengaluru,Dodda Nekkundi Extension,28446
+142,Bengaluru,Mylasandra,31132
+143,Bengaluru,Kalyan nagar,28605
+144,Bengaluru,Dr Shivarama Karantha Nagar,41820
+145,Bengaluru,Bank Of Baroda Colony,24482
+146,Bengaluru,Kullappa Colony,24701
+147,Bengaluru,Mukkutam Nagar,34668
+148,Bengaluru,Ashwath Nagar,15666
+149,Bengaluru,Ncpr Industrial Layout,26342
+150,Bengaluru,Meenakunte,46565
+151,Bengaluru,OMBR Layout,43267
+152,Bengaluru,Anand Nagar,38517
+153,Bengaluru,Shree Ananth Nagar Layout,14758
+154,Bengaluru,Kundalahalli Colony,40244
+155,Bengaluru,Horamavu Agara,23072
+156,Bengaluru,MCECHS  layout,36096
+157,Bengaluru,Coffee Board Layout,30589
+158,Bengaluru,Ambedkar Nagar,26814
+159,Bengaluru,KUDLU MAIN ROAD,43083
+160,Bengaluru,Geleyara Balaga Layout,12072
+161,Bengaluru,Talaghattapura,41517
+162,Bengaluru,Sundara Nagar,34615
+163,Bengaluru,Balagere,47637
+164,Bengaluru,Jigani,40321
+165,Bengaluru,Gollarapalya Hosahalli,36510
+166,Bengaluru,Srirampura,39439
+167,Bengaluru,Old Madras Road,35240
+168,Bengaluru,Kaggadasapura,35854
+169,Bengaluru,Silver Springs Layout,41614
+170,Bengaluru,9th Phase JP Nagar,41259
+171,Bengaluru,Jakkur,25587
+172,Bengaluru,TC Palaya,47662
+173,Bengaluru,Maruthi Sevanagar,35595
+174,Bengaluru,RMV 2nd Stage,41385
+175,Bengaluru,Giri Nagar,18581
+176,Bengaluru,Singasandra,17808
+177,Bengaluru,AECS Layout,26357
+178,Bengaluru,Mallasandra,18193
+179,Bengaluru,Begur,19723
+180,Bengaluru,JP Nagar,45575
+181,Bengaluru,Sunder Ram Shetty Nagar,38258
+182,Bengaluru,Malleshpalya,20214
+183,Bengaluru,Kodathi,49912
+184,Bengaluru,Munnekollal,38962
+185,Bengaluru,Motappa Layout,44692
+186,Bengaluru,Akshaya Vana,31129
+187,Bengaluru,Kaggalipura,24096
+188,Bengaluru,Basavanna Nagar,10889
+189,Bengaluru,6th Phase JP Nagar,40974
+190,Bengaluru,Ulsoor,22347
+191,Bengaluru,Thigalarapalya,41077
+192,Bengaluru,Somasundara Palya,41861
+193,Bengaluru,T.C PALYA,22402
+194,Bengaluru,Muneshwara Nagar,10156
+195,Bengaluru,Basaveshwara Nagar,14045
+196,Bengaluru,Bull Temple Road,40688
+197,Bengaluru,Bommasandra,24180
+198,Bengaluru,Prashanth Nagar,15602
+199,Bengaluru,Suragajakkanahalli,39644
+200,Bengaluru,Ardendale,15506
+201,Bengaluru,Harlur,37725
+202,Bengaluru,Sampigehalli,16051
+203,Bengaluru,RMV,31033
+204,Bengaluru,Banashankari3rd stage bigbazar,33071
+205,Bengaluru,Bagalur Main Road,42069
+206,Bengaluru,Kodihalli,33201
+207,Bengaluru,Narayanapura,28552
+208,Bengaluru,Binny Mills Employees Colony,29516
+209,Bengaluru,Bannerghatta Road,45140
+210,Bengaluru,Hennur,31460
+211,Bengaluru,5th Phase JP Nagar,13972
+212,Bengaluru,Kodigehaali,18178
+213,Bengaluru,Gopalapura,30478
+214,Bengaluru,Billekahalli,37449
+215,Bengaluru,Jalahalli,31809
+216,Bengaluru,Mahadevpura,21334
+217,Bengaluru,Anekal,28918
+218,Bengaluru,"Hoodi Circle, ",48285
+219,Bengaluru,Sompura,46802
+220,Bengaluru,Ashirvad Colony,15012
+221,Bengaluru,Dodda Nekkundi,28924
+222,Bengaluru,K N Extension,41526
+223,Bengaluru,Hosur Road,49211
+224,Bengaluru,Battarahalli,14407
+225,Bengaluru,Gokula Extension,34144
+226,Bengaluru,Kamakshipalya,27174
+227,Bengaluru,Sultan Palaya,34193
+228,Bengaluru,Sanne Amanikere,47854
+229,Bengaluru,Amco Colony,23920
+230,Bengaluru,Ambalipura,25060
+231,Bengaluru,Hoodi,12170
+232,Bengaluru,Samethanahalli,18473
+233,Bengaluru,Brookefield,41143
+234,Bengaluru,Yelenahalli,19273
+235,Bengaluru,Richmond Town,15112
+236,Bengaluru,Suddaguntepalya,43433
+237,Bengaluru,Udayapur Village,26011
+238,Bengaluru,Vittasandra,13947
+239,Bengaluru,Thippasandra,42749
+240,Bengaluru,Chikkabidarakallu,20933
+241,Bengaluru,1 Giri Nagar,20421
+242,Bengaluru,Hoysalanagar,41982
+243,Bengaluru,Defence Colony,17745
+244,Bengaluru,2nd Stage Nagarbhavi,13315
+245,Bengaluru,Vidyaranyapura,22359
+246,Bengaluru,Amruthahalli,32989
+247,Bengaluru,ITI Employees Layout,25053
+248,Bengaluru,Kodigehalli,37209
+249,Bengaluru,Patelappa Layout,17958
+250,Bengaluru,Ring Road Nagarbhavi,26953
+251,Bengaluru,NS Palya,16568
+252,Bengaluru,Subramanyapura,10121
+253,Bengaluru,Basavangudi,14980
+254,Bengaluru,Kenchenahalli,42832
+255,Bengaluru,3rd Block Hrbr Layout,29440
+256,Bengaluru,Bank Avenue,28125
+257,Bengaluru,Surabhi Layout,40315
+258,Bengaluru,Banjara Layout,16041
+259,Bengaluru,Omkar Nagar,16154
+260,Bengaluru,Kereguddadahalli,32273
+261,Bengaluru,Maragondanahalli,45285
+262,Bengaluru,Silk Board,48814
+263,Bengaluru,Kada Agrahara,27344
+264,Bengaluru,Kambipura,24461
+265,Bengaluru,BHEL Layout,43524
+266,Bengaluru,Medahalli,29627
+267,Bengaluru,Banashankari Stage III,24121
+268,Bengaluru,Kashi Nagar,49191
+269,Bengaluru,Sector 7 HSR Layout,44866
+270,Bengaluru,"Yemlur, Old Airport Road, ",49713
+271,Bengaluru,VHBCS Layout,36330
+272,Bengaluru,Ittamadu,42020
+273,Bengaluru,Rajiv Nagar,48248
+274,Bengaluru,Gattahalli,14041
+275,Bengaluru,Arekere,42467
+276,Bengaluru,Ramanjaneyanagar,39708
+277,Bengaluru,Mico Layout,23362
+278,Bengaluru,7th Block Jayanagar,33952
+279,Bengaluru,2nd Phase JP Nagar,40342
+280,Bengaluru,Kammanahalli,19874
+281,Bengaluru,K G Colony,40542
+282,Bengaluru,Banashankari,25861
+283,Bengaluru,Herohalli,40488
+284,Bengaluru,Chikkabanavar,31980
+285,Bengaluru,HRBR Layout,24174
+286,Bengaluru,Ashwini layout,43915
+287,Bengaluru,Marathalli bridge,11346
+288,Bengaluru,Dooravani Nagar,24395
+289,Bengaluru,JCR Layout,17377
+290,Bengaluru,Nehru Nagar,46876
+291,Bengaluru,Kanakapura,17777
+292,Bengaluru,Papareddipalya,15669
+293,Bengaluru,Venkatapura,30641
+294,Bengaluru,Sneha Colony,47903
+295,Bengaluru,Konanakunte,13589
+296,Bengaluru,Hosapalya,15494
+297,Bengaluru,Doddagubbi,26831
+298,Bengaluru,Sector 6 HSR Layout,40324
+299,Bengaluru,Margondanahalli,35968
+300,Bengaluru,ITI Layout,17260
+301,Bengaluru,R.T. Nagar,13233
+302,Bengaluru,Tumkur Road,34850
+303,Bengaluru,Vasanthapura,41307
+304,Bengaluru,Hosahalli,20152
+305,Bengaluru,GM Palaya,15511
+306,Bengaluru,near Ramanashree California resort,39268
+307,Bengaluru,"6th block banashankari 3rd stage, 100 feet ORR",45534
+308,Bengaluru,Jalahalli East,20366
+309,Bengaluru,Poornapragna Housing Society Layout,31978
+310,Bengaluru,Hosakerehalli,41394
+311,Bengaluru,Huskur,13033
+312,Bengaluru,Indira Nagar,24996
+313,Bengaluru,Shanthala Nagar,16773
+314,Bengaluru,Teachers Colony,49725
+315,Bengaluru,Bettahalsoor,11593
+316,Bengaluru,Srinivasa Nagar,19340
+317,Bengaluru,Sulthangunta,36748
+318,Bengaluru,Byrathi Village,10933
+319,Bengaluru,Kodichikkanahalli,45722
+320,Bengaluru,Ambedkar Colony,35389
+321,Bengaluru,Varthur Road,36060
+322,Bengaluru,Anjappa Layout,14401
+323,Bengaluru,Avalahalli,17042
+324,Bengaluru,Prakruthi Nagar,33698
+325,Bengaluru,Sadaramangala,33393
+326,Bengaluru,Anjanapura,30420
+327,Bengaluru,Abbigere,46075
+328,Bengaluru,Tindlu,48578
+329,Bengaluru,B Narayanapura,40380
+330,Bengaluru,Green Garden Layout,16334
+331,Bengaluru,Gubbalala,18293
+332,Bengaluru,Dairy Circle,32106
+333,Bengaluru,Parappana Agrahara,34376
+334,Bengaluru,Jeevan bima nagar,22321
+335,Bengaluru,Narayana Nagar 1st Block,49152
+336,Bengaluru,KSRTC Layout,24804
+337,Bengaluru,P&T Colony,40689
+338,Bengaluru,Cunningham Road,41058
+339,Bengaluru,New Gurappana Palya,35715
+340,Bengaluru,Chelekare,23643
+341,Bengaluru,Palanahalli,33210
+342,Bengaluru,Vadarpalya,30403
+343,Bengaluru,Kudlu,10835
+344,Bengaluru,Shivanagar,13069
+345,Bengaluru,V.V Puram,12791
+346,Bengaluru,Sector 3 HSR Layout,23167
+347,Bengaluru,Banashankari Stage VI,28985
+348,Bengaluru,HMT Layout,42457
+349,Bengaluru,Basavanagara,21570
+350,Bengaluru,Cox Town,49344
+351,Bengaluru,Kalasipalya,12838
+352,Bengaluru,Kathriguppe,10501
+353,Bengaluru,HBR Layout,48637
+354,Bengaluru,4 Bedroom Farm House in Bagalur,42727
+355,Bengaluru,Yelahanka New Town,28711
+356,Bengaluru,Sahakara Nagar,34152
+357,Bengaluru,manyata park,23277
+358,Bengaluru,Rachenahalli,28775
+359,Bengaluru,Belathur,14130
+360,Bengaluru,Sadashiva Nagar,41188
+361,Bengaluru,Yelachenahalli,11642
+362,Bengaluru,Shirdi Sai Layout,29094
+363,Bengaluru,Kodbisanhalli,33455
+364,Bengaluru,Sathya Sai Layout,42944
+365,Bengaluru,Indiranagar HAL 2nd Stage,14011
+366,Bengaluru,Vishwanatha Nagenahalli,28192
+367,Bengaluru,Singapura Village,24918
+368,Bengaluru,Bendiganahalli,27987
+369,Bengaluru,Hosakerehalli Layout,17806
+370,Bengaluru,Hennagara,17984
+371,Bengaluru,Ferrar Nagar,24023
+372,Bengaluru,Green Glen Layout,31908
+373,Bengaluru,BAGUR,27377
+374,Bengaluru,Thubarahalli,24329
+375,Bengaluru,M.G Road,31288
+376,Bengaluru,Naganathapura,17936
+377,Bengaluru,Horamavu Banaswadi,34349
+378,Bengaluru,1st Phase JP Nagar,17414
+379,Bengaluru,Kaverappa Layout,21396
+380,Bengaluru,NGR Layout,17068
+381,Bengaluru,Divya Unnathi Layout,29919
+382,Bengaluru,Vasantha Vallabha Nagar,44846
+383,Bengaluru,sapthagiri Layout,16434
+384,Bengaluru,Seegehalli,11946
+385,Bengaluru,BEML Layout,38717
+386,Bengaluru,Alur,20287
+387,Bengaluru,Devarabisanahalli,24127
+388,Bengaluru,NRI Layout,36265
+389,Bengaluru,Sidedahalli,39210
+390,Bengaluru,Dwarka Nagar,18559
+391,Bengaluru,ITPL,35322
+392,Bengaluru,Thurahalli,48973
+393,Bengaluru,Hallehalli,39705
+394,Bengaluru,Kattigenahalli,29736
+395,Bengaluru,Marathi Layout,32694
+396,Bengaluru,Weavers Colony,15921
+397,Bengaluru,Raghavendra Nagar,38879
+398,Bengaluru,KR Layout,12916
+399,Bengaluru,Babusapalaya,32259
+400,Bengaluru,Nagappa Reddy Layout,39425
+401,Bengaluru,Kempapura,41356
+402,Bengaluru,BTM 1st Stage,26952
+403,Bengaluru,Kariyammana Agrahara,40806
+404,Bengaluru,Hessarghatta,47364
+405,Bengaluru,Binnamangala,21079
+406,Bengaluru,Suraksha Nagar,13767
+407,Bengaluru,Lakshmi Layout,27466
+408,Bengaluru,Iblur Village,33692
+409,Bengaluru,Kadugondanahalli,28760
+410,Bengaluru,Basava Nagar,31407
+411,Bengaluru,2nd Block Hrbr Layout,36050
+412,Bengaluru,Ananth Nagar,13990
+413,Bengaluru,Canara Bank Layout,17407
+414,Bengaluru,Narasapura,12021
+415,Bengaluru,Manjunath Nagar,39734
+416,Bengaluru,Basapura,34048
+417,Bengaluru,Channasandra,31027
+418,Bengaluru,Singena Agrahara,21702
+419,Bengaluru,Sector 1 HSR Layout,12778
+420,Bengaluru,Mango Garden Layout,48641
+421,Bengaluru,Kacharakanahalli,31918
+422,Bengaluru,"Bidere Agarahara, Behind Safal market",39530
+423,Bengaluru,Grihalakshmi Layout,34320
+424,Bengaluru,Gopalkrishna Nagar,10477
+425,Bengaluru,Choodasandra,22938
+426,Bengaluru,Sai Gardens,23436
+427,Bengaluru,Dodda Kempaiah Layout,24040
+428,Bengaluru,Hanumanth Nagar,46362
+429,Bengaluru,Kaikondrahalli,27913
+430,Bengaluru,Hunasamaranahalli,28635
+431,Bengaluru,RWF West Colony,32906
+432,Bengaluru,Bileshivale,20867
+433,Bengaluru,Neeladri Nagar,18959
+434,Bengaluru,Frazer Town,41600
+435,Bengaluru,Williams Town,42956
+436,Bengaluru,Jaya Nagar East,38987
+437,Bengaluru,Iggalur,38188
+438,Bengaluru,Cooke Town,43135
+439,Bengaluru,Doddakallasandra,29521
+440,Bengaluru,Chokkanahalli,19185
+441,Bengaluru,Chikkaballapur,20265
+442,Bengaluru,Chamrajpet,26345
+443,Bengaluru,VGP Layout,14795
+444,Bengaluru,Classic Paradise Layout,25117
+445,Bengaluru,Byappanahalli,29872
+446,Bengaluru,Vasanth nagar,15876
+447,Bengaluru,Rayasandra,25500
+448,Bengaluru,Kalkere,15622
+449,Bengaluru,T.C. Palya,40095
+450,Bengaluru,Siddapura,45213
+451,Bengaluru,Makali,10616
+452,Bengaluru,Vibuthipura,14111
+453,Bengaluru,5th Block Hbr Layout,36826
+454,Bengaluru,Pai Layout,16995
+455,Bengaluru,Defence Layout,24003
+456,Bengaluru,Roopena Agrahara,13164
+457,Bengaluru,Banashankari Stage V,33813
+458,Bengaluru,Coconut Garden,44593
+459,Bengaluru,Gollahalli,46246
+460,Bengaluru,Sonnenahalli,14716
+461,Bengaluru,D Souza Layout,17346
+462,Bengaluru,"ECC Road, Whitefield, ",40939
+463,Bengaluru,Seetharampalya,26662
+464,Bengaluru,Rukmaiah Layout,48317
+465,Bengaluru,Devanahalli Int. Airport,25609
+466,Bengaluru,Puttanahalli,14427
+467,Bengaluru,Benson Town,20703
+468,Bengaluru,Devasandra Extension,23934
+469,Bengaluru,2nd Phase Judicial Layout,21044
+470,Bengaluru,1st Block HRBR Layout,10945
+471,Bengaluru,"Sarjapur Road, ",15961
+472,Bengaluru,Byadarahalli,40020
+473,Bengaluru,Poorna Pragna Layout,26988
+474,Bengaluru,Judicial Layout,11720
+475,Bengaluru,"Varthur Road, ",37799
+476,Bengaluru,Chikka Banaswadi,25228
+477,Bengaluru,Outer Ring Road East,26656
+478,Bengaluru,Kavika Layout,17930
+479,Bengaluru,Vinayaka Nagar,40922
+480,Bengaluru,Banashankari Stage II,30567
+481,Bengaluru,Hennur Busstop,42949
+482,Bengaluru,GB Palya,11709
+483,Bengaluru,AMS Layout,21706
+484,Bengaluru,9th Block Jayanagar,15697
+485,Bengaluru,Karuna Nagar,22653
+486,Bengaluru,Ashwathnagar,10713
+487,Bengaluru,Gaurava Nagar,13706
+488,Bengaluru,Kengeri Satellite Town ( BDA SITE),18382
+489,Bengaluru,AGS Layout,39338
+490,Bengaluru,Srinagar,16687
+491,Bengaluru,Brigade Road,28304
+492,Bengaluru,Bannerghatta,24701
+493,Bengaluru,Maruthi HBCS Layout,35887
+494,Bengaluru,Devanahalli Road,27856
+495,Bengaluru,Green Woods Layout,36525
+496,Bengaluru,Craig Park Layout,21016
+497,Bengaluru,Immadihalli,34405
+498,Bengaluru,Banagiri Nagar,15122
+499,Bengaluru,Hiremath Layout,21726
+500,Bengaluru,Jnanabharathi Layout,45303
+501,Bengaluru,Chikkasandra,33781
+502,Bengaluru,Bharath Housing Society Layout,40921
+503,Bengaluru,3rd Block Jayanagar,13526
+504,Bengaluru,Manjunatha Layout,40183
+505,Bengaluru,Konanakunte Cross,13768
+506,Bengaluru,Abbaiah Reddy Layout,37938
+507,Bengaluru,Tavarekere,46711
+508,Bengaluru,Thirumenahalli,21031
+509,Bengaluru,KPC Layout,20449
+510,Bengaluru,HOSUR MAIN ROAD,32033
+511,Bengaluru,Nandi Durga Road,11062
+512,Bengaluru,Kumara Park,13834
+513,Bengaluru,Daadys Gaarden Layout,21622
+514,Bengaluru,Maruthi Nagar,26515
+515,Bengaluru,Marsur,32152
+516,Bengaluru,Kallumantapa,40752
+517,Bengaluru,Malimakanapura,15185
+518,Bengaluru,Rustam Bagh Layout,47269
+519,Bengaluru,New Thippasandra,38821
+520,Bengaluru,Garden Layout,22945
+521,Bengaluru,Viswapriyanagar.begur Road.bommanahalli.,49535
+522,Bengaluru,T K Reddy Layout,26764
+523,Bengaluru,Kumbena Agrahara,30957
+524,Bengaluru,"Pai layout , Mahadevapura",40443
+525,Bengaluru,frazertown,46645
+526,Bengaluru,Akshayanagara East,45515
+527,Bengaluru,Doddanekundi,31507
+528,Bengaluru,Venkatadri Layout,32384
+529,Bengaluru,Bommenahalli,12625
+530,Bengaluru,Mahaganapathy Nagar,47060
+531,Bengaluru,Andrahalli,38161
+532,Bengaluru,Vittal Nagar,20346
+533,Bengaluru,2Electronic City Phase II,19999
+534,Bengaluru,3rd Block Banashankari,31934
+535,Bengaluru,Bhuvaneshwari Nagar,36670
+536,Bengaluru,Kadarenahalli,33167
+537,Bengaluru,Laggere,13025
+538,Bengaluru,Victoria Layout,14815
+539,Bengaluru,Prithvi Layout,14379
+540,Bengaluru,Subramanyanagar,22307
+541,Bengaluru,1 Ramamurthy Nagar,17226
+542,Bengaluru,5th Stage BEML Layout,15266
+543,Bengaluru,IVC Road,15997
+544,Bengaluru,Jaya Mahal layout,49900
+545,Bengaluru,BSM Extension,14552
+546,Bengaluru,Vijinapura,29401
+547,Bengaluru,Banaswadi,28433
+548,Bengaluru,P&T Layout,17951
+549,Bengaluru,Byrasandra,25626
+550,Bengaluru,SBM Colony,41200
+551,Bengaluru,Veerannapalya,24243
+552,Bengaluru,Chowdeshwari Layout,49856
+553,Bengaluru,Mathikere Extension,48240
+554,Bengaluru,Sector 2 HSR Layout,22800
+555,Bengaluru,Anantapura,43665
+556,Bengaluru,Shivaji Nagar,29018
+557,Bengaluru,Badavala Nagar,45857
+558,Bengaluru,4th Block Koramangala,48534
+559,Bengaluru,Belatur,25166
+560,Bengaluru,Lalbagh Road,47606
+561,Bengaluru,Kamakya Layout,23832
+562,Bengaluru,Vignana Nagar,34179
+563,Bengaluru,Nallurhalli,14082
+564,Bengaluru,Chinnapanahalli,49589
+565,Bengaluru,Lingarajapuram,33316
+566,Bengaluru,3rd Block HBR Layout,41099
+567,Bengaluru,Laxmi Sagar Layout,46586
+568,Bengaluru,Nelamangala,20738
+569,Bengaluru,Nagavarapalya,10535
+570,Bengaluru,Hongasandra,44616
+571,Bengaluru,Harappanahalli,41512
+572,Bengaluru,BTM Layout,29256
+573,Bengaluru,Chennammana Kere,14789
+574,Bengaluru,Kanaka Nagar,42166
+575,Bengaluru,Tasker Town,17321
+576,Bengaluru,Govindpura,24389
+577,Bengaluru,NR Colony,38951
+578,Bengaluru,Agara Village,36305
+579,Bengaluru,Shettigere,40975
+580,Bengaluru,Kenchanehalli R R Nagar,36362
+581,Bengaluru,BEL Road,19521
+582,Bengaluru,Byagadadhenahalli,24359
+583,Bengaluru,Doddabommasandra,14344
+584,Bengaluru,Maruthi Layout,12500
+585,Bengaluru,Sree Narayana Nagar,30376
+586,Bengaluru,Tunganagara,30506
+587,Bengaluru,BTM 2nd Stage,29106
+588,Bengaluru,Remco Bhel Layout,14730
+589,Bengaluru,Chokkasandra,47813
+590,Bengaluru,Panduranga Nagar,36477
+591,Bengaluru,Sri Venkateshpura Layout,35647
+592,Bengaluru,Jakkur Plantation,27698
+593,Bengaluru,Sir M V Nagar,45896
+594,Bengaluru,Bikasipura,43759
+595,Bengaluru,Basaveshwara Nagar Yelahanka,36648
+596,Bengaluru,1st Block Koramangala,29016
+597,Bengaluru,Hoskote,33869
+598,Bengaluru,Attiguppe,49756
+599,Bengaluru,Srirampuram,29524
+600,Bengaluru,Yemlur,16470
+601,Bengaluru,Race Course Road,18128
+602,Bengaluru,Gkvk Layout,31354
+603,Bengaluru,St. John's Road,37011
+604,Bengaluru,Doopanahalli,10353
+605,Bengaluru,Doddaballapur,34903
+606,Bengaluru,Sathanur,18294
+607,Bengaluru,Ramamohanapuram,46589
+608,Bengaluru,kanakapura road,36367
+609,Bengaluru,Kaveri Nagar,21816
+610,Bengaluru,Sundar Ram Shetty Nagar,23777
+611,Bengaluru,"Kirloskar layout, Basaveshwarnagar",41936
+612,Bengaluru,Alfa Garden Layout,20913
+613,Bengaluru,Gowdanapalya,11049
+614,Bengaluru,Hoodi Layout,34891
+615,Bengaluru,Gaundanapalya,11171
+616,Bengaluru,Arasanakunte,37226
+617,Bengaluru,5th block Koramangala,48111
+618,Bengaluru,JakkurYelahanka,24636
+619,Bengaluru,Gunjur Palya,31346
+620,Bengaluru,Upkar Layout,10601
+621,Bengaluru,Sunkadakatte,40147
+622,Bengaluru,Someshwara Layout,25043
+623,Bengaluru,Kathreguppe,15305
+624,Bengaluru,Channasandra Layout,47975
+625,Bengaluru,HAL 3rd Stage,39661
+626,Bengaluru,Doctors Layout,27273
+627,Bengaluru,Austin Town,20571
+628,Bengaluru,Rajagopala Nagar,33437
+629,Bengaluru,Vishwapriya Nagar,18272
+630,Bengaluru,Sarakki Nagar,43517
+631,Bengaluru,Bahubali Nagar,22958
+632,Bengaluru,Lottegolla Halli,44216
+633,Bengaluru,Nandini Layout,46476
+634,Bengaluru,Vibhutipura Extension,19289
+635,Bengaluru,B Channasandra,22058
+636,Bengaluru,Dollars Colony,10910
+637,Bengaluru,Arehalli,48478
+638,Bengaluru,Cambridge  road,14738
+639,Bengaluru,Hennur Gardens,36476
+640,Bengaluru,Thyagaraja Nagar,13153
+641,Bengaluru,Howthinarayanappa Garden,44367
+642,Bengaluru,Bharathi Nagar,31139
+643,Bengaluru,SRINIVASAPURA,24804
+644,Bengaluru,Cambridge Layout,19685
+645,Bengaluru, ittamadu,48934
+646,Bengaluru,Doddakannelli,42833
+647,Bengaluru,Pulkeshi Nagar,48414
+648,Bengaluru,"Thanisandra Main Road, ",37670
+649,Bengaluru,Jayanagar,45076
+650,Bengaluru, Bhoganhalli,45030
+651,Bengaluru,Kumbalgodu,21305
+652,Bengaluru,banashankari stage iii sa,46862
+653,Bengaluru,Amruthnagar,25034
+654,Bengaluru,Palace Guttahalli,24149
+655,Bengaluru,Akshya Nagar,44126
+656,Bengaluru, Anekal,11545
+657,Bengaluru,BCC Layout,48862
+658,Bengaluru,Mathikere,22520
+659,Bengaluru,Friends Colony,45766
+660,Bengaluru,Doddabidrakallu,38037
+661,Bengaluru,Sri Balaji Krupa Layout,47350
+662,Bengaluru,Bidadi,48881
+663,Bengaluru,Sampige Layout,21118
+664,Bengaluru,Virgonagar,43684
+665,Bengaluru,Dodsworth Layout,38744
+666,Bengaluru,"Kudlu Village, ",32239
+667,Bengaluru,Rajiv Gandhi Nagar,43328
+668,Bengaluru,Kurubarahalli,40200
+669,Bengaluru,Sector 4 HSR Layout,21058
+670,Bengaluru,Bhagyalakshmi Avenue,13276
+671,Bengaluru,Kengeri Hobli,13610
+672,Bengaluru,Vyalikaval,45833
+673,Bengaluru,"Banaswadi, ",35833
+674,Bengaluru,Balaji Gardens Layout,36907
+675,Bengaluru,Thavarekere,47539
+676,Bengaluru,HAL 2nd Stage,36596
+677,Bengaluru, Devarabeesana Halli,35150
+678,Bengaluru, Rachenahalli,18207
+679,Bengaluru,Tippenahalli,25385
+680,Bengaluru,Prestige Sunrise,31513
+681,Bengaluru,1st Stage Indira Nagar,45099
+682,Bengaluru,Srigandada Kaval,33526
+683,Bengaluru,Viswajit Layout,41551
+684,Bengaluru,Adityanagar,28843
+685,Bengaluru,BDS Layout,38780
+686,Bengaluru,Shanthi Layout,22203
+687,Bengaluru,Esther Enclave Layout,27592
+688,Bengaluru,Volagerekallahalli,49113
+689,Bengaluru,Keerthi Layout,22752
+690,Bengaluru,Ganga Nagar Extension,22161
+691,Bengaluru,Shikaripalya,21719
+692,Bengaluru,Huttanahalli,47425
+693,Bengaluru,Reliable Woods Layout,34251
+694,Bengaluru,4th T block Jayanagar,10777
+695,Bengaluru,Nayandanahalli,33223
+696,Bengaluru,Hagadur,13561
+697,Bengaluru,Popular Colony,36092
+698,Bengaluru,Soundarya Layout,25553
+699,Bengaluru,"Banashankari 6th Stage ,Subramanyapura",17749
+700,Bengaluru,Amarjyothi Colony,20751
+701,Bengaluru,Pattanagere,38742
+702,Bengaluru,Dollars Layout,33035
+703,Bengaluru,Chikkabettahalli,39190
+704,Bengaluru,Bhuvaneswari Nagar,11862
+705,Bengaluru,Varanasi,36298
+706,Bengaluru,Gopal Reddy Layout,39392
+707,Bengaluru,sankeswari,30781
+708,Bengaluru,T c palya,33269
+709,Bengaluru,Govindraja Nagar,43539
+710,Bengaluru,Virat Nagar,19235
+711,Bengaluru,Chennammanakere Achukattu,32036
+712,Bengaluru,"Maragondana Halli, kr puram, old madras road",44797
+713,Bengaluru,Dhanalakshmi Layout,34572
+714,Bengaluru,Jp nagar 8th Phase .,30127
+715,Bengaluru,Nobo Nagar,45896
+716,Bengaluru,Kanakapura Road,48991
+717,Bengaluru,Kadubeesanahalli,36429
+718,Bengaluru,J P Nagar 7th Phase Ramayya City,28425
+719,Bengaluru,Green Domain Layout,48132
+720,Bengaluru,Cleveland Town,11722
+721,Bengaluru,Syndicate Bank Colony,41337
+722,Bengaluru,"Off Sarjapur road, ",12433
+723,Bengaluru,M C Layout,43354
+724,Bengaluru,Nanjappa Layout,35314
+725,Bengaluru,Dodda Banaswadi,37876
+726,Bengaluru,BEL Layout,48910
+727,Bengaluru,Sri Kanteshwara Nagar,30297
+728,Bengaluru,Bellari Road,45922
+729,Bengaluru,Jyothi Nagar,18910
+730,Bengaluru,Tata Nagar,20131
+731,Bengaluru,RK Layout 2nd Stage,17752
+732,Bengaluru,Tirumanahalli,38186
+733,Bengaluru,Raghuvanahalli,44532
+734,Bengaluru,Geddalahalli,13369
+735,Bengaluru,Brindavan Nagar,29314
+736,Bengaluru,Mariyannapalya,27736
+737,Bengaluru,Palace Road,31944
+738,Bengaluru,Pulikeshi Nagar,25161
+739,Bengaluru,Domlur Layout,11393
+740,Bengaluru,Vijaya Bank Layout,32893
+741,Bengaluru,Narayanappa Layout,36767
+742,Bengaluru,1Hanuman Nagar,35438
+743,Bengaluru,Wilson Garden,38897
+744,Bengaluru,Kumbhena Agrahara,37960
+745,Bengaluru,Challaghatta,13227
+746,Bengaluru,Nyanappana Halli,20140
+747,Bengaluru,Indira Nagar 3rd Stage,39616
+748,Bengaluru,KR Garden,47107
+749,Bengaluru,Kanakadasa Layout,18049
+750,Bengaluru,Mallathahalli,36193
+751,Bengaluru,Jayamahal Extension,27023
+752,Bengaluru,Laxminarayana Layout,11164
+753,Bengaluru,Sahyadri Layout,13444
+754,Bengaluru,Mathikere SBM colony,13401
+755,Bengaluru,"white field,kadugodi",15716
+756,Bengaluru,Bagalur,35631
+757,Bengaluru,Vinayak Nagar,30689
+758,Bengaluru,P Krishnappa Layout,36400
+759,Bengaluru,Crimson Layout,13960
+760,Bengaluru,Hanumantha Nagar,16113
+761,Bengaluru,Bagalakunte,35305
+762,Bengaluru,Lavelle Road,35074
+763,Bengaluru,Goraguntepalya,49214
+764,Bengaluru,Rajankunte,44507
+765,Bengaluru,6th Block Rajaji Nagar,17492
+766,Bengaluru,MLA Layout,20151
+767,Bengaluru,Koramangala Industrial Layout,15306
+768,Bengaluru,Kyalasanahalli,40757
+769,Bengaluru,Nagadevanahalli,33724
+770,Bengaluru,Madiwala,44777
+771,Bengaluru,Rajarajeshwari Nagara,18821
+772,Bengaluru,Celebrity Paradise Layout,16782
+773,Bengaluru,St Thomas Town,38756
+774,Bengaluru,Ckikkakammana Halli,27551
+775,Bengaluru,Banashankari 2nd Stage,37992
+776,Bengaluru,Munivenkatppa Layout,39230
+777,Bengaluru,Kamala Nagar,26664
+778,Bengaluru,Kumarapalli,41922
+779,Bengaluru,Marenahalli,15889
+780,Bengaluru,Nagawara Junction,43680
+781,Bengaluru,Maithri Layout,27879
+782,Bengaluru,Raja Rajeshwari Nagar 5th Stage,49756
+783,Bengaluru,Nanjappa Garden,28679
+784,Bengaluru,Vayunandana Layout,17756
+785,Bengaluru,Geetanjali Layout,35854
+786,Bengaluru,Kenchenhalli,39583
+787,Bengaluru,"EPIP AREA, WHITEFIELD",42805
+788,Bengaluru,1st Stage Domlur,18792
+789,Bengaluru,"RMV extension stage 2, rmv extension",49042
+790,Bengaluru,Kalhalli,40246
+791,Bengaluru,Hadosiddapura,15600
+792,Bengaluru,Vijaya Bank Colony,17211
+793,Bengaluru,Lakkasandra,29126
+794,Bengaluru,"JP Nagar 8th Phase, ",43597
+795,Bengaluru,Kachanayakanahalli,15380
+796,Bengaluru,Nagaraja Garden,18853
+797,Bengaluru,1 Annasandrapalya,25856
+798,Bengaluru,6th block Koramangala,36417
+799,Bengaluru,"JP nagar 9th Phase, ",26290
+800,Bengaluru,4th Block Jayanagar,24143
+801,Bengaluru,Kuvempu Nagar,32288
+802,Bengaluru,Karnataka Shabarimala,21656
+803,Bengaluru,Canara Bank Colony,17860
+804,Bengaluru,Hanumagiri,26537
+805,Bengaluru,Seshadripuram,38931
+806,Bengaluru,Akshayanagara West,35658
+807,Bengaluru,Prasanth Extension,36343
+808,Bengaluru,Chikkathoguru,22269
+809,Bengaluru,Anand nagar,25141
+810,Bengaluru,West of Chord Road,48870
+811,Bengaluru,Junnasandra,30636
+812,Bengaluru,Handenahalli,20194
+813,Bengaluru,manyata tech park,15030
+814,Bengaluru,Sarvabhouma Nagar,20550
+815,Bengaluru,SMV layout,24316
+816,Bengaluru,CQAL LAYOUT C BLOCK,18160
+817,Bengaluru,"Near Electronic City, ",20873
+818,Bengaluru,Banashankari stage 2,33716
+819,Bengaluru,Doddanakundi Industrial Area 2,36440
+820,Bengaluru,OLd Gurappanapalya,44362
+821,Bengaluru,Chikkadunnasandra,16167
+822,Bengaluru,Indranagar  100ft road defence colony,31082
+823,Bengaluru,Wajid layout thanisandra,19973
+824,Bengaluru,Achins Road,25335
+825,Bengaluru,Uvce Layout,31186
+826,Bengaluru,Gattigere,11998
+827,Bengaluru,Cottonpet,38012
+828,Bengaluru,singapura paradise,40620
+829,Bengaluru,Kannur,32898
+830,Bengaluru,Sampangi Rama Nagar,21126
+831,Bengaluru,BEML Layout 5th stage,15183
+832,Bengaluru,Pragathi Nagar,43742
+833,Bengaluru,Ramesh Nagar,34385
+834,Bengaluru,A Narayanapura,18722
+835,Bengaluru,Amblipura,18180
+836,Bengaluru,Rajarajeshwari nagar,39746
+837,Bengaluru,Rajarajeshwarinagar,48797
+838,Bengaluru,Jinkethimmanahalli,17109
+839,Bengaluru,Vimanapura,34940
+840,Bengaluru,1st Stage Radha Krishna Layout,30828
+841,Bengaluru,Bapuji Layout,45647
+842,Bengaluru,Vasantapura main road,44009
+843,Bengaluru,CQAL Layout,35640
+844,Bengaluru,Venugopal Reddy Layout,42857
+845,Bengaluru,Lake City,10192
+846,Bengaluru,Lakshmipura,19279
+847,Bengaluru,Old Town,45416
+848,Bengaluru,Okalipura,47928
+849,Bengaluru,Maruthi Extension,43087
+850,Bengaluru,Vidyapeeta,39868
+851,Bengaluru,Meenakshi Layout,46316
+852,Bengaluru,S R Layout,28452
+853,Bengaluru,GD Layout,48128
+854,Bengaluru,Kithaganur,10229
+855,Bengaluru,Shirdi Sai Nagar,11347
+856,Bengaluru,"JP Nagar 7th Phase, ",37607
+857,Bengaluru,J C Nagar,41702
+858,Bengaluru,Sadduguntepalya,30027
+859,Bengaluru,Doddakammanahalli,19462
+860,Bengaluru,Bidrahalli,41904
+861,Bengaluru,Medi Agrahara,24919
+862,Bengaluru,whitefiled,48019
+863,Bengaluru,Subbannaiah Palya,32164
+864,Bengaluru,N R Layout,17333
+865,Bengaluru,Richards Town,43649
+866,Bengaluru,Manorayana Palya,18631
+867,Bengaluru,Madanayakahalli,29526
+868,Bengaluru,Mahalakshmi Puram,28815
+869,Bengaluru,Jaladarsini Layout,21675
+870,Bengaluru,Attur Layout,12933
+871,Bengaluru,Brooke Bond First Cross,12930
+872,Bengaluru,Glass Factory Layout,30935
+873,Bengaluru,Milk Colony,12715
+874,Bengaluru,"Basnashankari,6th stage,",22539
+875,Bengaluru,Near ullas theater,34676
+876,Bengaluru,Chikkakannalli,23469
+877,Bengaluru,Yeshwanthpur Industrial Suburb,48548
+878,Bengaluru,Nandi Hills,40531
+879,Bengaluru,Thanisandra main road,19181
+880,Bengaluru,Saptagiri Layout,44738
+881,Bengaluru,Doddabanahalli,36521
+882,Bengaluru, Electronic City,43646
+883,Bengaluru,Vijayabank bank layout,27402
+884,Bengaluru,D Group Employees Layout,38145
+885,Bengaluru,Hosahalli Extension,46122
+886,Bengaluru,1Channasandra,43073
+887,Bengaluru,"Whitefield, ",33668
+888,Bengaluru,Kempegowda Nagar,27419
+889,Bengaluru,Vaderahalli,16253
+890,Bengaluru,4th Phase JP Nagar,45876
+891,Bengaluru,K R C kothanur,19561
+892,Bengaluru,2nd Block Jayanagar,31964
+893,Bengaluru,Singanayakanahalli,10200
+894,Bengaluru,Udaya Nagar,16577
+895,Bengaluru, Whitefield,18087
+896,Bengaluru,Vaishnavi Layout,42041
+897,Bengaluru,Housing Board Layout Vijay Nagar,25204
+898,Bengaluru,Thomas Town,18555
+899,Bengaluru,Manganahalli,47402
+900,Bengaluru,Indra Nagar,47607
+901,Bengaluru,t.c palya,49476
+902,Bengaluru,Ilyas Nagar,38829
+903,Bengaluru,3rd Phase JP Nagar,14266
+904,Bengaluru,kanakapura main road,34290
+905,Bengaluru,Reliaable Tranquil Layout,24469
+906,Bengaluru,Mailasandra,38735
+907,Bengaluru,Basvasamithi Layout Vidyaranyapura,36678
+908,Bengaluru,8th Block Jayanagar,11295
+909,Bengaluru,Atmananda Colony,17477
+910,Bengaluru,Baba Nagar,31118
+911,Bengaluru,Badrappa Layout,40540
+912,Bengaluru,Lal Bahadur Shastri Nagar,11988
+913,Bengaluru,Puttappa Layout,17420
+914,Bengaluru,"Ananthanagar Phase 1,Electronic City , phase 2",13279
+915,Bengaluru,Bethel Nagar,26882
+916,Bengaluru,Kirloskar Layout,45843
+917,Bengaluru,tc.palya,19376
+918,Bengaluru,Dollar Scheme Colony,17559
+919,Bengaluru,Omarbagh Layout,35863
+920,Bengaluru,anjananager magdi road,14824
+921,Bengaluru,Kodipalya,45836
+922,Bengaluru,Aishwarya Crystal Layout,27550
+923,Bengaluru,DUO Layout,29619
+924,Bengaluru,Srinivas Colony,29517
+925,Bengaluru,Moodalapalya,25627
+926,Bengaluru,Gokaula Extension,49643
+927,Bengaluru,Subash Nagar,22111
+928,Bengaluru,RTO ullalu,16069
+929,Bengaluru,Carmelaram,27810
+930,Bengaluru,Hennur Bande,11386
+931,Bengaluru,"ravindra nagar, T.dasarahalli peenya",33960
+932,Bengaluru,1st Block BEL Layout,31398
+933,Bengaluru,Prakruthi Township,13938
+934,Bengaluru,Bennigana Halli,41549
+935,Bengaluru,Seethappa Layout,27908
+936,Bengaluru,Langford Gardens,27537
+937,Bengaluru,"Bellandur, ",12028
+938,Bengaluru,Marasandra,17873
+939,Bengaluru,Kalkere Channasandra,47615
+940,Bengaluru,Shakthi Nagar,24569
+941,Bengaluru,Ullal Uppanagar,34337
+942,Bengaluru, south,13363
+943,Bengaluru,Rainbow Drive,34181
+944,Bengaluru,3rd Block Koramangala,20105
+945,Bengaluru,Jakkasandra Extension,21718
+946,Bengaluru,Ganesha Block,17686
+947,Bengaluru,Malur Hosur Road,47076
+948,Bengaluru,Lakshmipura Vidyaanyapura,15712
+949,Bengaluru,Hegganahalli,36074
+950,Bengaluru,Rajanna Layout,44373
+951,Bengaluru,Nagarbhavi  BDA Complex,17290
+952,Bengaluru,Gidada Konnenahalli,10157
+953,Bengaluru,Rahat Bagh,47219
+954,Bengaluru,Escorts Colony,44723
+955,Bengaluru,"asha township, off hennur road",39220
+956,Bengaluru,1A Block Koramangala,13209
+957,Bengaluru,Near International Airport,28508
+958,Bengaluru,NTI Layout,33904
+959,Bengaluru,Fraser town,42026
+960,Bengaluru,Dasappa Layout,28513
+961,Bengaluru,Sonam Layout,33470
+962,Bengaluru,CR Layout,26999
+963,Bengaluru,BTM 4th Stage,26934
+964,Bengaluru,Arekempanahalli,18420
+965,Bengaluru,Chamundi Nagar,31049
+966,Bengaluru,MRCR Layout,27786
+967,Bengaluru,Shettihalli,47764
+968,Bengaluru,Gangondanahalli,20475
+969,Bengaluru,Ullal Road,19934
+970,Bengaluru,Hullahalli,14632
+971,Bengaluru,Jagajyothi layout,14436
+972,Bengaluru,Lakkasandra Extension,32438
+973,Bengaluru,Krishna Reddy Layout,32681
+974,Bengaluru,Kuvempu Layout,17646
+975,Bengaluru,Chickpet,18855
+976,Bengaluru,T G extension,10047
+977,Bengaluru,2nd Block Koramangala,48662
+978,Bengaluru,Devi Nagar,15677
+979,Bengaluru,GKW Layout,20521
+980,Bengaluru,Gandhi Nagar,43746
+981,Bengaluru,Jnana Ganga Nagar,43722
+982,Bengaluru,rr nagar,28733
+983,Bengaluru,Harohalli,19563
+984,Bengaluru,Stage-4 Bommanahalli,19464
+985,Bengaluru,Venkateshpuram,33675
+986,Bengaluru,"Judicial Layout, Kanakapura Road, ",26763
+987,Bengaluru,Mullur,29561
+988,Bengaluru,J.P.nagar 6th Phase.Sarakki Nagar,36474
+989,Bengaluru,Doddabele,44286
+990,Bengaluru,Sadahalli,20683
+991,Bengaluru,Sathya Layout,21383
+992,Bengaluru,5 Bedroom Farm House in Lakshmipura,35621
+993,Bengaluru,Shanti Nagar,32182
+994,Bengaluru,2nd Stage Arekere Mico Layout,37445
+995,Bengaluru,Jayamahal,28715
+996,Bengaluru,Veer Sandra,49814
+997,Bengaluru,Chennappa Layout,35158
+998,Bengaluru,RMV Extension Stage 2,29285
+999,Bengaluru,Sadanand Nagar,42834
+1000,Bengaluru,"Whietfield, ",20593
+1001,Bengaluru,BTM Layout 1stage 9th Main,46826
+1002,Bengaluru,Lavakusha Nagar,46526
+1003,Bengaluru,Vittal Mallya Road,28881
+1004,Bengaluru,Dena Bank Colony,41514
+1005,Bengaluru,Kadabagere,44910
+1006,Bengaluru,1st Block HBR Layout,46333
+1007,Bengaluru,High grounds,13386
+1008,Bengaluru,Kothnoor Dinne,30239
+1009,Bengaluru,Guddadahalli,45014
+1010,Bengaluru,Vasanthpura,45473
+1011,Bengaluru,Kasthuri Nagar East Of NGEF,12719
+1012,Bengaluru,Chikka Gowdanapalya.,42979
+1013,Bengaluru,"TR Mill Road, Chamarajpet",27464
+1014,Bengaluru,Nirman Layout,47786
+1015,Bengaluru,Chokkahalli,15033
+1016,Bengaluru,Telecom Layout,21594
+1017,Bengaluru,Vikram Nagar,30645
+1018,Bengaluru,Virupakshapura,27467
+1019,Bengaluru,Muthyala Nagar,24976
+1020,Bengaluru,Nrupathunga Nagar,48451
+1021,Bengaluru,Coconut Grove Layout,37391
+1022,Bengaluru,Amrita Nagar,19174
+1023,Bengaluru,RR Layout,11932
+1024,Bengaluru,Billapura,37185
+1025,Bengaluru,KHB Colony Extension,25679
+1026,Bengaluru,Anjana Nagar,31202
+1027,Bengaluru,Subramanya Nagar,46856
+1028,Bengaluru,Janatha Colony,39340
+1029,Bengaluru,Veersandra,21023
+1030,Bengaluru,Harsha Layout,18608
+1031,Bengaluru,Tigalarpalya,44458
+1032,Bengaluru,2nd Block Bel Layout,35820
+1033,Bengaluru,sarjapura main road,31811
+1034,Bengaluru,Anekal - Hosur Road,17057
+1035,Bengaluru,Ramamurthy Nagar Extension,41659
+1036,Bengaluru,"2nd phase jp nagar, jp nagar",47178
+1037,Bengaluru,BEML Layout 5th Stage,35514
+1038,Bengaluru,Manonarayanapalya,36732
+1039,Bengaluru,M V Extenstion,44078
+1040,Bengaluru,Kamdhenu Nagar,46147
+1041,Bengaluru,Ganganahalli,28466
+1042,Bengaluru,Narayanappa Garden,18948
+1043,Bengaluru,Rest House Road,14857
+1044,Bengaluru,Ex-Servicemen Colony Dinnur Main Road R.T.Nagar,35828
+1045,Bengaluru,Vijay Nagar,32157
+1046,Bengaluru,CMH Road,37325
+1047,Bengaluru,Ankappa Layout,46712
+1048,Bengaluru,Neelasandra,28545
+1049,Bengaluru,Yediyur,30504
+1050,Bengaluru,Upadhyaya Layout,49614
+1051,Bengaluru,bsk 6th stage 2ad block near sri conversation hall,49243
+1052,Bengaluru,"Annapoorneshwari Layout, JP nagar 7th phase",49326
+1053,Bengaluru,Mudalpalaya,45436
+1054,Bengaluru,elachenahalli,37233
+1055,Bengaluru,B K Nagar,44548
+1056,Bengaluru,Vivek Nagar,21732
+1057,Bengaluru, Basavangudi,29561
+1058,Bengaluru,"Banashankari 6th stage , 2nd block",37017
+1059,Bengaluru,KG Halli,27795
+1060,Bengaluru,Cubbon Road,22682
+1061,Bengaluru,Veerabhadra Nagar,44516
+1062,Bengaluru,Vidhyanagar Cross,31777
+1063,Bengaluru,6th Block Jayanagar,47185
+1064,Bengaluru,Punappa Layout,24755
+1065,Bengaluru,Pampa Extension,31300
+1066,Bengaluru, Sector 1 HSR Layout,48781
+1067,Bengaluru,Basaveswarnagar,46278
+1068,Bengaluru,Jaymahal Road,46104
+1069,Bengaluru,Nagarbhavi Garden Villas Layout,48709
+1070,Bengaluru,Agrahara Dasarahalli,44196
+1071,Bengaluru,T R Mill Road,19016
+1072,Bengaluru,Indira Nagar Stage 2,20567
+1073,Bengaluru,Hommadevanahalli,40778
+1074,Bengaluru,BTM Layout 2nd Stage 1st Phase,14914
+1075,Bengaluru,T C Palya main Road,35419
+1076,Bengaluru,1 Immadihalli,32298
+1077,Bengaluru,Navodaya Nagar,13495
+1078,Bengaluru,Guni Agrahara,31017
+1079,Bengaluru,Shankarapuram,42492
+1080,Bengaluru,Shetty Halli,37424
+1081,Bengaluru,AGB Layout,44373
+1082,Bengaluru,Bilal Nagar,48459
+1083,Bengaluru,Krishna Nagar,10125
+1084,Bengaluru,Kanakapura Main Road,12995
+1085,Bengaluru,Suryanagar,25602
+1086,Bengaluru,Duvasapalya,45378
+1087,Bengaluru,BCMC Layout,32734
+1088,Bengaluru,Kengeri Satellite Town Stage II,10330
+1089,Bengaluru,Church Street,37988
+1090,Bengaluru,Uday Nagar,42685
+1091,Bengaluru,Chaitanya Ananya,21219
+1092,Bengaluru,Nagashetty Halli,29595
+1093,Bengaluru,Byrasandra Extension,41394
+1094,Bengaluru,Sri Sai Layout,45445
+1095,Bengaluru,Devara Jeevanahalli,38656
+1096,Bengaluru,SK Garden,15391
+1097,Bengaluru,PNS Layout,49465
+1098,Bengaluru,"Electronic city Phase 1, ",12544
+1099,Bengaluru, Banaswadi,22668
+1100,Bengaluru,Naidu Layout,32447
+1101,Bengaluru,Sugama Layout,16628
+1102,Bengaluru,Behind Don Bosco Church,41222
+1103,Bengaluru,Anugrah Layout,17522
+1104,Bengaluru,Bandepalya,36697
+1105,Bengaluru,poornaprajna layout,43971
+1106,Bengaluru,Annapurneshwari Nagar,47855
+1107,Bengaluru,Somanna Garden,23110
+1108,Bengaluru,RPC layout,45381
+1109,Bengaluru,"HSR Layout 7th sector, ",35197
+1110,Bengaluru,Bettadasanapura,12112
+1111,Bengaluru,Gulimangala,46450
+1112,Bengaluru,Addischetan Layout,22932
+1113,Bengaluru,Konena Agrahara,27293
+1114,Bengaluru,Raghavendra Layout,23152
+1115,Bengaluru,Varsova Layout,15853
+1116,Bengaluru,Bhattarahalli,16764
+1117,Bengaluru,Bande Nallasandra,43941
+1118,Bengaluru,HAL Layout,35871
+1119,Bengaluru,Vidya Nagar,36442
+1120,Bengaluru,Shingapura,21336
+1121,Bengaluru,SHANTHINAGAR,33360
+1122,Bengaluru,Jay an agar 4 T Block,35653
+1123,Bengaluru,Satyasaibaba Layout,26125
+1124,Bengaluru,Queens Road,29944
+1125,Bengaluru,Koppa,43851
+1126,Bengaluru,RR Nagar,43425
+1127,Bengaluru,Jagadish Nagar,13522
+1128,Bengaluru,3rd Phase Iti Layout,24554
+1129,Bengaluru,"Ananthapura, T C palaya Main Road",23686
+1130,Bengaluru,Phase 1 Kammasandra,31576
+1131,Bengaluru,Deepanjali Nagar,11147
+1132,Bengaluru,SARJAPUR BAGALUR ROAD,22948
+1133,Bengaluru,B Y Raveshwara Nagar,26562
+1134,Bengaluru,KEB Colony,32947
+1135,Bengaluru,HOSUR RMAIN ROAD,49727
+1136,Bengaluru,Konappana Agrahara,36911
+1137,Bengaluru,Rajasree Layout,19713
+1138,Bengaluru,Vinayaka Layout,38835
+1139,Bengaluru,Thirumalashettyhally,12867
+1140,Bengaluru,Bharathnagar,35984
+1141,Bengaluru,5th Block Jayanagar,18283
+1142,Bengaluru,"Jayanagar, ",46236
+1143,Bengaluru,Asthagrama Layout,32783
+1144,Bengaluru,Rajarajesheari nagar,18685
+1145,Bengaluru,Millers Road,20311
+1146,Bengaluru,2nd Block Hbr Layout,18669
+1147,Bengaluru,Madavara,44024
+1148,Bengaluru,Dwaraka Nagar,45287
+1149,Bengaluru,Garebhavipalya,22145
+1150,Bengaluru,Neelamangala,17405
+1151,Bengaluru,Banashankari 6th Stage,39436
+1152,Bengaluru,Brindavan Layout,45544
+1153,Bengaluru,Chambenahalli,14515
+1154,Bengaluru,cooketown,31863
+1155,Bengaluru,Kathriguppe IV Phase,44306
+1156,Bengaluru,Ramchandrapuram,26602
+1157,Bengaluru,1Hoysalanagar,23261
+1158,Bengaluru,PC Palaya,43781
+1159,Bengaluru,Soppahalli,22145
+1160,Bengaluru,Aavalahalli,37018
+1161,Bengaluru,Jayanti Nagar,25135
+1162,Bengaluru,Virudhu Nagar,11200
+1163,Bengaluru,kamanahalli main road,43527
+1164,Bengaluru,7th Block Koramangala,14974
+1165,Bengaluru,Prakash Nagar,45172
+1166,Bengaluru,Bharat Nagar,43495
+1167,Bengaluru,Ramanashree Enclave,24208
+1168,Bengaluru,"Yelahanka,MVIT college",15947
+1169,Bengaluru,Chikku Lakshmaiah Layout,22548
+1170,Bengaluru,Gnana Bharathi,27383
+1171,Bengaluru,Pillahalli,18058
+1172,Bengaluru,Ashok Nagar,39476
+1173,Bengaluru,Gollarahatti,33528
+1174,Bengaluru,Venkateswara Nagar,25287
+1175,Bengaluru,Chikkagubbi,45234
+1176,Bengaluru,Banashankari 2 nd Stage,44223
+1177,Bengaluru,Kammagondahalli,48909
+1178,Bengaluru,Nanjappa Layout Vidyaranyapura,11600
+1179,Bengaluru,Rammana Layout,49520
+1180,Bengaluru,Rajapura,15371
+1181,Bengaluru,Raja Rajeshwari Nagara,32278
+1182,Bengaluru,Govindapura,17839
+1183,Bengaluru,Thirupalya,31346
+1184,Bengaluru,Off Bannergatta road,37882
+1185,Bengaluru,Hoskote near,42768
+1186,Bengaluru,"Haralur Road, ",29684
+1187,Bengaluru,Adugodi,47387
+1188,Bengaluru,RK Colony,36157
+1189,Bengaluru,2 Bedroom Furnished Farm House in Kolar Road,40884
+1190,Bengaluru,kg halli jalhalli west,39222
+1191,Bengaluru,Vasatha Vallbha Nagar,36750
+1192,Bengaluru,BAGUR ROAD,34479
+1193,Bengaluru,Balepet,32557
+1194,Bengaluru,Annasandrapalya,20060
+1195,Bengaluru,RMC YARD,10574
+1196,Bengaluru,"Panathur Road, ",12997
+1197,Bengaluru,Shanthi Pura,46940
+1198,Bengaluru,Viviani Road,19834
+1199,Bengaluru,Sampangirama Nagar,30021
+1200,Bengaluru,Doctor Layout Rayasandra,37245
+1201,Bengaluru,Anwar Layout,38177
+1202,Bengaluru,Pillanna Gardens,30826
+1203,Bengaluru,AECS LAYOUT A-BLOCK Singasandra,34838
+1204,Bengaluru,Banashankari Stage I,32554
+1205,Bengaluru,4th Block HBR Layout,46629
+1206,Bengaluru,Michael Palaya,34159
+1207,Bengaluru,RBI Layout,40673
+1208,Bengaluru,Akash Nagar,43324
+1209,Bengaluru,Shauhardha Layout,42023
+1210,Bengaluru,Bhoopsandra,33846
+1211,Bengaluru,"Electronic city phase 1, ",16102
+1212,Bengaluru,Anathanagar,29062
+1213,Bengaluru,vinayakanagar,29371
+1214,Bengaluru,Jaraganahalli Jp Nagar Post,17641
+1215,Bengaluru,adigondanhalli,46763
+1216,Bengaluru,Off Bannergatta Road,35020
+1217,Bengaluru,Kanakapura  Rod,13567
+1218,Bengaluru,Richmond Road,22737
+1219,Bengaluru,Postal Colony,41093
+1220,Bengaluru,"MEI layout, Bagalgunte",13557
+1221,Bengaluru,Jeevanhalli,47797
+1222,Bengaluru,"Gubbi Cross, Hennur Main Road",15179
+1223,Bengaluru,Sabari Nagar,20609
+1224,Bengaluru,Ashraya Layout,34494
+1225,Bengaluru,Arishinakunte,24710
+1226,Bengaluru,Infantry Road,47728
+1227,Bengaluru,Whitefield ECC Road,15613
+1228,Bengaluru,Maruthi nagar kogilu,18120
+1229,Bengaluru,Ayappa Nagar,38034
+1230,Bengaluru,Billamaranahalli,12978
+1231,Bengaluru,Prasanti Nagar,19142
+1232,Bengaluru,"Banasawadi, ",38992
+1233,Bengaluru,Sunkan palya,23255
+1234,Bengaluru,Gayathri Nagar,46789
+1235,Bengaluru,Old Mangammanapalya Road,11251
+1236,Bengaluru,1Kasavanhalli,40257
+1237,Bengaluru,"Kanakapura Road, ",39950
+1238,Bengaluru,Hal old airport road,36757
+1239,Bengaluru,arudi,10589
+1240,Bengaluru,Anantapuram,34680
+1241,Bengaluru,Javarandoddi,23257
+1242,Bengaluru,Vijaypura,44943
+1243,Bengaluru,Bapuji Nagar,37622
+1244,Bengaluru,Amam Enclave Layout,40511
+1245,Bengaluru,Allalasandra,38935
+1246,Bengaluru,Ramanagara Channapatna,22006
+1247,Bengaluru,Maheswari Nagar,19035
+1248,Bengaluru,Hsr layout sector3,17307
+1249,Bengaluru,Thyagraj Nagar,24065
+1250,Bengaluru,Banagirinagar,10601
+1251,Bengaluru,Medaralli,47577
+1252,Bengaluru,Versova Layout,46618
+1253,Bengaluru,Chikkajala,10957
+1254,Bengaluru,Udayagiri,23423
+1255,Bengaluru,pavitra paradise,32568
+1256,Bengaluru,kadubisnahalli,18963
+1257,Bengaluru,Rahmath Nagar,23224
+1258,Bengaluru,Chikkanahalli,20093
+1259,Bengaluru,Halanayakanahalli,29881
+1260,Bengaluru,Park View Layout,14682
+1261,Bengaluru,Xavier Layout,33610
+1262,Bengaluru,Air View Colony,11335
+1263,Bengaluru,akshaya nagar t c palya,14911
+1264,Bengaluru,mvj engineering college,18370
+1265,Bengaluru,Raja Rajashweri Nagar,31026
+1266,Bengaluru,basaveshwarnagar,48494
+1267,Bengaluru,"Banashankari 3rd stage, Vivekanandanagar",21219
+1268,Bengaluru,Annaiah Reddy Layout,30024
+1269,Bengaluru,manyata,19289
+1270,Bengaluru,LIC Colony,12972
+1271,Bengaluru,Mallappa Layout,30311
+1272,Bengaluru,3rd Stage Raja Rajeshwari Nagar,23830
+1273,Bengaluru,Dominic Layout,43718
+1274,Bengaluru,KAMAKIYA,30723
+1275,Bengaluru,Wheelers Road,18240
+1276,Bengaluru,MM Layout,47960
+1277,Bengaluru,Devarabeesana Halli,26113
+1278,Bengaluru,"beml layout, basaveshwara nagar",42619
+1279,Bengaluru,Sadhguru Layout,20572
+1280,Bengaluru,Chikbasavanapura,44602
+1281,Bengaluru,"Electronic City Phase 1, ",20470
+1282,Bengaluru,Chuchangatta Colony,33369
+1283,Bengaluru,Hanuman Nagar,29226
+1284,Bengaluru,Kengeri Satellite Town KHB Apartment,34747
+1285,Bengaluru,Subhash Nagar,25602
+1286,Bengaluru,Jogupalya,38605
+1287,Bengaluru,Doddanakunte,11689
+1288,Bengaluru,Duddanahalli,43931
+1289,Bengaluru,"Beml layout, Rajarajeshwari nagar",22414
+1290,Bengaluru,Gulakamale,13588
+1291,Bengaluru,Jakkasandra,40875
+1292,Bengaluru,Chellikere,49625
+1293,Bengaluru,Zuzuvadi,16397
+1294,Bengaluru,Kanakapura main  Road,32498
+1295,Bengaluru,Masjid e Alkareem,28801
+1296,Bengaluru,Sindhi Colony,34800
+1297,Bengaluru,Kanakapur main road,20736
+1298,Bengaluru,Prasanna layout Herohalli,46636
+1299,Bengaluru,Sarvobhogam Nagar,38770
+1300,Bengaluru,Pattegarhpalya,39969
+1301,Bengaluru,Tilak Nagar,46783
+1302,Bengaluru,12th cross srinivas nagar banshankari 3rd stage,28038
+1303,Bengaluru,Havanur extension,10100
+1304,Bengaluru,Abshot Layout,33206
